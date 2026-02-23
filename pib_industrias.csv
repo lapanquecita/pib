@@ -127,9 +127,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,PIB,Producto interno bruto,6406398.553,8379800.0165
 2024-07-01,PIB,Producto interno bruto,6360503.98875,8453350.53975
 2024-10-01,PIB,Producto interno bruto,6412560.6415,8680725.342
-2025-01-01,PIB,Producto interno bruto,6220320.5295,8555941.66725
-2025-04-01,PIB,Producto interno bruto,6402037.0395,8817854.06325
-2025-07-01,PIB,Producto interno bruto,6352871.5665,8797356.7305
+2025-01-01,PIB,Producto interno bruto,6220590.66475,8556298.35375
+2025-04-01,PIB,Producto interno bruto,6402811.00325,8818664.773
+2025-07-01,PIB,Producto interno bruto,6357177.04975,8803007.76625
+2025-10-01,PIB,Producto interno bruto,6527114.179,9077482.02275
 1993-01-01,D.21-D.31,"Impuestos sobre los productos, netos",205090.72425,16499.19075
 1993-04-01,D.21-D.31,"Impuestos sobre los productos, netos",202845.507,16386.932
 1993-07-01,D.21-D.31,"Impuestos sobre los productos, netos",182282.9625,15687.19075
@@ -258,9 +259,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,D.21-D.31,"Impuestos sobre los productos, netos",368662.83725,537336.78925
 2024-07-01,D.21-D.31,"Impuestos sobre los productos, netos",348431.14525,544982.974
 2024-10-01,D.21-D.31,"Impuestos sobre los productos, netos",341495.103,586686.86625
-2025-01-01,D.21-D.31,"Impuestos sobre los productos, netos",354003.1525,598739.62275
-2025-04-01,D.21-D.31,"Impuestos sobre los productos, netos",369295.22775,572210.10625
-2025-07-01,D.21-D.31,"Impuestos sobre los productos, netos",347686.36225,602326.47475
+2025-01-01,D.21-D.31,"Impuestos sobre los productos, netos",353995.995,598739.62275
+2025-04-01,D.21-D.31,"Impuestos sobre los productos, netos",369401.50725,572210.10625
+2025-07-01,D.21-D.31,"Impuestos sobre los productos, netos",347785.0085,602326.47475
+2025-10-01,D.21-D.31,"Impuestos sobre los productos, netos",347299.25425,572035.53125
 1993-01-01,VAB,Valor agregado bruto,3234672.76475,381302.1305
 1993-04-01,VAB,Valor agregado bruto,3269440.7485,394882.80375
 1993-07-01,VAB,Valor agregado bruto,3283436.7555,399865.298
@@ -389,9 +391,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,VAB,Valor agregado bruto,6037735.71575,7842463.22725
 2024-07-01,VAB,Valor agregado bruto,6012072.8435,7908367.56575
 2024-10-01,VAB,Valor agregado bruto,6071065.5385,8094038.47575
-2025-01-01,VAB,Valor agregado bruto,5866317.377,7957202.0445
-2025-04-01,VAB,Valor agregado bruto,6032741.81175,8245643.957
-2025-07-01,VAB,Valor agregado bruto,6005185.20425,8195030.25575
+2025-01-01,VAB,Valor agregado bruto,5866594.66975,7957558.731
+2025-04-01,VAB,Valor agregado bruto,6033409.496,8246454.66675
+2025-07-01,VAB,Valor agregado bruto,6009392.04125,8200681.2915
+2025-10-01,VAB,Valor agregado bruto,6179814.92475,8505446.4915
 1993-01-01,1,Actividades primarias,117282.903,18660.11125
 1993-04-01,1,Actividades primarias,122986.297,19513.4495
 1993-07-01,1,Actividades primarias,123124.9585,19590.003
@@ -520,9 +523,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,1,Actividades primarias,216193.90125,340566.59475
 2024-07-01,1,Actividades primarias,195359.4365,307141.50725
 2024-10-01,1,Actividades primarias,231946.6185,362354.284
-2025-01-01,1,Actividades primarias,198134.3275,312521.161
-2025-04-01,1,Actividades primarias,220044.05825,357673.8575
-2025-07-01,1,Actividades primarias,202503.49125,314002.90075
+2025-01-01,1,Actividades primarias,198164.52475,312570.86675
+2025-04-01,1,Actividades primarias,220070.1265,357717.75925
+2025-07-01,1,Actividades primarias,202156.194,313423.42425
+2025-10-01,1,Actividades primarias,248565.586,385639.1505
 1993-01-01,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",117282.903,18660.11125
 1993-04-01,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",122986.297,19513.4495
 1993-07-01,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",123124.9585,19590.003
@@ -651,9 +655,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",216193.90125,340566.59475
 2024-07-01,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",195359.4365,307141.50725
 2024-10-01,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",231946.6185,362354.284
-2025-01-01,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",198134.3275,312521.161
-2025-04-01,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",220044.05825,357673.8575
-2025-07-01,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",202503.49125,314002.90075
+2025-01-01,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",198164.52475,312570.86675
+2025-04-01,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",220070.1265,357717.75925
+2025-07-01,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",202156.194,313423.42425
+2025-10-01,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",248565.586,385639.1505
 1993-01-01,111,Agricultura,69773.89,11999.3355
 1993-04-01,111,Agricultura,71053.0085,12425.523
 1993-07-01,111,Agricultura,64353.4595,11485.333
@@ -782,9 +787,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,111,Agricultura,138266.81025,226232.02525
 2024-07-01,111,Agricultura,112479.86075,190967.99625
 2024-10-01,111,Agricultura,146908.02475,244207.50925
-2025-01-01,111,Agricultura,122723.20775,202328.78625
-2025-04-01,111,Agricultura,139908.5195,235719.253
-2025-07-01,111,Agricultura,117838.5255,195075.00725
+2025-01-01,111,Agricultura,122753.0775,202378.01625
+2025-04-01,111,Agricultura,139934.34575,235762.782
+2025-07-01,111,Agricultura,117494.69025,194500.61175
+2025-10-01,111,Agricultura,161428.4985,265853.60925
 1993-01-01,112,Cría y explotación de animales,40400.91275,5181.78325
 1993-04-01,112,Cría y explotación de animales,45027.73375,5622.076
 1993-07-01,112,Cría y explotación de animales,51793.26475,6650.31075
@@ -915,7 +921,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,112,Cría y explotación de animales,74602.1215,103776.881
 2025-01-01,112,Cría y explotación de animales,66097.306,97104.82975
 2025-04-01,112,Cría y explotación de animales,71259.6945,109110.1545
-2025-07-01,112,Cría y explotación de animales,75728.16725,106336.5415
+2025-07-01,112,Cría y explotación de animales,75727.98725,106336.347
+2025-10-01,112,Cría y explotación de animales,76585.2635,105063.3765
 1993-01-01,113,Aprovechamiento forestal,4948.32575,1121.5485
 1993-04-01,113,Aprovechamiento forestal,4702.73025,1078.09725
 1993-07-01,113,Aprovechamiento forestal,4684.23875,1060.48675
@@ -1047,6 +1054,7 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2025-01-01,113,Aprovechamiento forestal,5821.146,8231.2375
 2025-04-01,113,Aprovechamiento forestal,5633.17925,8052.8075
 2025-07-01,113,Aprovechamiento forestal,5765.696,8224.042
+2025-10-01,113,Aprovechamiento forestal,6339.00325,9077.5385
 1993-01-01,114,"Pesca, caza y captura",1098.552,214.21425
 1993-04-01,114,"Pesca, caza y captura",1297.369,264.02425
 1993-07-01,114,"Pesca, caza y captura",1250.002,252.743
@@ -1177,7 +1185,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,114,"Pesca, caza y captura",2386.125,2999.3665
 2025-01-01,114,"Pesca, caza y captura",2011.8375,2738.30675
 2025-04-01,114,"Pesca, caza y captura",1804.66975,2605.19775
-2025-07-01,114,"Pesca, caza y captura",1761.94075,2401.60425
+2025-07-01,114,"Pesca, caza y captura",1761.92975,2401.59225
+2025-10-01,114,"Pesca, caza y captura",2535.62075,3322.4135
 1993-01-01,115,Servicios relacionados con las actividades agropecuarias y forestales,1061.2225,143.22975
 1993-04-01,115,Servicios relacionados con las actividades agropecuarias y forestales,905.4555,123.729
 1993-07-01,115,Servicios relacionados con las actividades agropecuarias y forestales,1043.9935,141.1295
@@ -1306,9 +1315,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,115,Servicios relacionados con las actividades agropecuarias y forestales,1420.413,2085.718
 2024-07-01,115,Servicios relacionados con las actividades agropecuarias y forestales,1333.5195,1895.43725
 2024-10-01,115,Servicios relacionados con las actividades agropecuarias y forestales,1640.481,2295.42725
-2025-01-01,115,Servicios relacionados con las actividades agropecuarias y forestales,1480.83025,2118.00075
-2025-04-01,115,Servicios relacionados con las actividades agropecuarias y forestales,1437.99525,2186.44475
-2025-07-01,115,Servicios relacionados con las actividades agropecuarias y forestales,1409.16175,1965.70575
+2025-01-01,115,Servicios relacionados con las actividades agropecuarias y forestales,1481.15775,2118.4765
+2025-04-01,115,Servicios relacionados con las actividades agropecuarias y forestales,1438.23725,2186.8175
+2025-07-01,115,Servicios relacionados con las actividades agropecuarias y forestales,1405.89075,1960.83125
+2025-10-01,115,Servicios relacionados con las actividades agropecuarias y forestales,1677.2,2322.21275
 1993-01-01,2,Actividades secundarias,1267092.3865,133350.82375
 1993-04-01,2,Actividades secundarias,1235530.423,133978.63675
 1993-07-01,2,Actividades secundarias,1283426.65,137997.5045
@@ -1437,9 +1447,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,2,Actividades secundarias,2006638.8155,2604908.356
 2024-07-01,2,Actividades secundarias,2009392.10125,2648543.66875
 2024-10-01,2,Actividades secundarias,1960201.14275,2629806.82025
-2025-01-01,2,Actividades secundarias,1931193.2415,2670633.0245
-2025-04-01,2,Actividades secundarias,1973501.03225,2723484.579
-2025-07-01,2,Actividades secundarias,1954789.11625,2673665.88925
+2025-01-01,2,Actividades secundarias,1931222.61575,2670673.36075
+2025-04-01,2,Actividades secundarias,1973572.46025,2723545.3825
+2025-07-01,2,Actividades secundarias,1955014.14725,2674058.068
+2025-10-01,2,Actividades secundarias,1968365.36675,2706992.13825
 1993-01-01,21,Minería,246777.261,23668.69575
 1993-04-01,21,Minería,251923.31825,24758.9885
 1993-07-01,21,Minería,253949.65875,23157.88875
@@ -1570,7 +1581,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,21,Minería,215752.357,240097.0315
 2025-01-01,21,Minería,204595.25525,248088.604
 2025-04-01,21,Minería,202697.60925,229422.19725
-2025-07-01,21,Minería,210334.7305,235172.52175
+2025-07-01,21,Minería,210308.71475,235129.04025
+2025-10-01,21,Minería,214960.64925,247503.1345
 1993-01-01,211,Extracción de petróleo y gas,207614.10975,19886.49
 1993-04-01,211,Extracción de petróleo y gas,214338.188,21026.903
 1993-07-01,211,Extracción de petróleo y gas,214943.0365,19372.76975
@@ -1702,6 +1714,7 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2025-01-01,211,Extracción de petróleo y gas,133194.62075,124778.98525
 2025-04-01,211,Extracción de petróleo y gas,135296.197,109819.50525
 2025-07-01,211,Extracción de petróleo y gas,139695.489,110713.32975
+2025-10-01,211,Extracción de petróleo y gas,141064.52425,105104.01525
 1993-01-01,212,"Minería de minerales metálicos y no metálicos, excepto petróleo y gas",35363.09175,3425.15725
 1993-04-01,212,"Minería de minerales metálicos y no metálicos, excepto petróleo y gas",33642.01725,3352.90025
 1993-07-01,212,"Minería de minerales metálicos y no metálicos, excepto petróleo y gas",34852.235,3367.65575
@@ -1832,7 +1845,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,212,"Minería de minerales metálicos y no metálicos, excepto petróleo y gas",58219.1735,100472.67175
 2025-01-01,212,"Minería de minerales metálicos y no metálicos, excepto petróleo y gas",58779.86575,103868.57925
 2025-04-01,212,"Minería de minerales metálicos y no metálicos, excepto petróleo y gas",56023.63875,102629.31375
-2025-07-01,212,"Minería de minerales metálicos y no metálicos, excepto petróleo y gas",57382.20375,105252.45375
+2025-07-01,212,"Minería de minerales metálicos y no metálicos, excepto petróleo y gas",57356.21875,105209.00525
+2025-10-01,212,"Minería de minerales metálicos y no metálicos, excepto petróleo y gas",58740.7195,120317.8855
 1993-01-01,213,Servicios relacionados con la minería,3800.0595,357.0485
 1993-04-01,213,Servicios relacionados con la minería,3943.113,379.18525
 1993-07-01,213,Servicios relacionados con la minería,4154.38725,417.46325
@@ -1963,7 +1977,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,213,Servicios relacionados con la minería,17004.32775,26531.11025
 2025-01-01,213,Servicios relacionados con la minería,12620.76875,19441.0395
 2025-04-01,213,Servicios relacionados con la minería,11377.7735,16973.37825
-2025-07-01,213,Servicios relacionados con la minería,13257.03775,19206.73825
+2025-07-01,213,Servicios relacionados con la minería,13257.007,19206.70525
+2025-10-01,213,Servicios relacionados con la minería,15155.4055,22081.23375
 1993-01-01,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",35238.965,4700.45975
 1993-04-01,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",36631.84425,5022.4545
 1993-07-01,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",36960.4165,5420.459
@@ -2092,9 +2107,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",78135.77575,120541.86375
 2024-07-01,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",83958.1135,119235.9
 2024-10-01,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",76021.6575,106576.67225
-2025-01-01,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",69419.3835,112315.11475
-2025-04-01,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",76449.91175,120249.059
-2025-07-01,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",82773.76325,131396.03875
+2025-01-01,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",69438.4015,112346.81225
+2025-04-01,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",76451.85275,120252.24925
+2025-07-01,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",82779.73275,131404.841
+2025-10-01,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",77776.89425,126405.98875
 1993-01-01,221,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",35238.965,4700.45975
 1993-04-01,221,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",36631.84425,5022.4545
 1993-07-01,221,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",36960.4165,5420.459
@@ -2223,9 +2239,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,221,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",78135.77575,120541.86375
 2024-07-01,221,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",83958.1135,119235.9
 2024-10-01,221,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",76021.6575,106576.67225
-2025-01-01,221,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",69419.3835,112315.11475
-2025-04-01,221,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",76449.91175,120249.059
-2025-07-01,221,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",82773.76325,131396.03875
+2025-01-01,221,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",69438.4015,112346.81225
+2025-04-01,221,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",76451.85275,120252.24925
+2025-07-01,221,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",82779.73275,131404.841
+2025-10-01,221,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",77776.89425,126405.98875
 1993-01-01,23,Construcción,255112.756,21334.219
 1993-04-01,23,Construcción,237036.63425,20126.30275
 1993-07-01,23,Construcción,263098.17725,23459.194
@@ -2356,7 +2373,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,23,Construcción,381920.74475,561985.134
 2025-01-01,23,Construcción,360295.56825,540942.31425
 2025-04-01,23,Construcción,379465.28075,578248.699
-2025-07-01,23,Construcción,364196.73425,554957.3155
+2025-07-01,23,Construcción,364049.40175,554744.0705
+2025-10-01,23,Construcción,398164.92075,608258.9645
 1993-01-01,236,Edificación,205422.71775,16971.77325
 1993-04-01,236,Edificación,187443.52075,15701.332
 1993-07-01,236,Edificación,204053.221,18085.5715
@@ -2487,7 +2505,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,236,Edificación,271125.9385,396503.3875
 2025-01-01,236,Edificación,263171.22375,392066.333
 2025-04-01,236,Edificación,278287.4055,420720.002
-2025-07-01,236,Edificación,265934.94475,403015.55575
+2025-07-01,236,Edificación,265697.8195,402657.6105
+2025-10-01,236,Edificación,292957.69875,445999.357
 1993-01-01,237,Construcción de obras de ingeniería civil,25693.014,2228.4835
 1993-04-01,237,Construcción de obras de ingeniería civil,25149.94225,2216.75675
 1993-07-01,237,Construcción de obras de ingeniería civil,31390.8555,2814.72475
@@ -2618,7 +2637,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,237,Construcción de obras de ingeniería civil,63639.525,94598.5205
 2025-01-01,237,Construcción de obras de ingeniería civil,51399.05375,78798.2575
 2025-04-01,237,Construcción de obras de ingeniería civil,50956.48075,79395.08425
-2025-07-01,237,Construcción de obras de ingeniería civil,51924.7115,79811.61225
+2025-07-01,237,Construcción de obras de ingeniería civil,51995.25025,79926.341
+2025-10-01,237,Construcción de obras de ingeniería civil,58085.1275,88639.385
 1993-01-01,238,Trabajos especializados para la construcción,23997.02425,2133.96225
 1993-04-01,238,Trabajos especializados para la construcción,24443.17125,2208.214
 1993-07-01,238,Trabajos especializados para la construcción,27654.10075,2558.89775
@@ -2749,7 +2769,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,238,Trabajos especializados para la construcción,47155.28125,70883.226
 2025-01-01,238,Trabajos especializados para la construcción,45725.29075,70077.72375
 2025-04-01,238,Trabajos especializados para la construcción,50221.3945,78133.61275
-2025-07-01,238,Trabajos especializados para la construcción,46337.078,72130.1475
+2025-07-01,238,Trabajos especializados para la construcción,46356.332,72160.119
+2025-10-01,238,Trabajos especializados para la construcción,47122.0945,73620.2225
 1993-01-01,31-33,Industrias manufactureras,729963.4045,83647.44925
 1993-04-01,31-33,Industrias manufactureras,709938.62625,84070.891
 1993-07-01,31-33,Industrias manufactureras,729418.3975,85959.96275
@@ -2878,9 +2899,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,31-33,Industrias manufactureras,1319539.77375,1688007.46025
 2024-07-01,31-33,Industrias manufactureras,1322015.088,1729818.9365
 2024-10-01,31-33,Industrias manufactureras,1286506.3835,1721147.9825
-2025-01-01,31-33,Industrias manufactureras,1296883.0345,1769286.9915
-2025-04-01,31-33,Industrias manufactureras,1314888.2305,1795564.62375
-2025-07-01,31-33,Industrias manufactureras,1297483.88825,1752140.01325
+2025-01-01,31-33,Industrias manufactureras,1296893.39075,1769295.63025
+2025-04-01,31-33,Industrias manufactureras,1314957.7175,1795622.237
+2025-07-01,31-33,Industrias manufactureras,1297876.298,1752780.11625
+2025-10-01,31-33,Industrias manufactureras,1277462.9025,1724824.0505
 1993-01-01,311,Industria alimentaria,134774.7605,15705.485
 1993-04-01,311,Industria alimentaria,129254.22675,15137.65
 1993-07-01,311,Industria alimentaria,124003.3905,14560.4715
@@ -3011,7 +3033,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,311,Industria alimentaria,248177.54925,349658.63475
 2025-01-01,311,Industria alimentaria,252324.845,369815.6635
 2025-04-01,311,Industria alimentaria,247029.309,374290.37
-2025-07-01,311,Industria alimentaria,244685.282,359064.58725
+2025-07-01,311,Industria alimentaria,244683.40225,359062.48575
+2025-10-01,311,Industria alimentaria,249976.26025,368783.179
 1993-01-01,3111,Elaboración de alimentos para animales,8464.9335,1065.61125
 1993-04-01,3111,Elaboración de alimentos para animales,8710.28325,1096.09025
 1993-07-01,3111,Elaboración de alimentos para animales,8580.1795,1068.56675
@@ -3142,7 +3165,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3111,Elaboración de alimentos para animales,13566.16175,18462.14875
 2025-01-01,3111,Elaboración de alimentos para animales,13980.309,19271.1225
 2025-04-01,3111,Elaboración de alimentos para animales,14193.43,19567.2295
-2025-07-01,3111,Elaboración de alimentos para animales,14321.20675,19541.84325
+2025-07-01,3111,Elaboración de alimentos para animales,14321.14275,19541.77675
+2025-10-01,3111,Elaboración de alimentos para animales,14145.213,19071.8905
 1993-01-01,3112,Molienda de granos y de semillas y obtención de aceites y grasas,11122.2965,1369.20925
 1993-04-01,3112,Molienda de granos y de semillas y obtención de aceites y grasas,11474.41675,1428.0785
 1993-07-01,3112,Molienda de granos y de semillas y obtención de aceites y grasas,11714.15425,1476.68575
@@ -3273,7 +3297,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3112,Molienda de granos y de semillas y obtención de aceites y grasas,20861.4795,28796.88925
 2025-01-01,3112,Molienda de granos y de semillas y obtención de aceites y grasas,20384.63125,28606.795
 2025-04-01,3112,Molienda de granos y de semillas y obtención de aceites y grasas,20443.154,28706.06475
-2025-07-01,3112,Molienda de granos y de semillas y obtención de aceites y grasas,20639.128,28711.373
+2025-07-01,3112,Molienda de granos y de semillas y obtención de aceites y grasas,20638.54975,28710.6675
+2025-10-01,3112,Molienda de granos y de semillas y obtención de aceites y grasas,20816.104,28647.6085
 1993-01-01,3113,"Elaboración de azúcares, chocolates, dulces y similares",16566.19675,2169.37325
 1993-04-01,3113,"Elaboración de azúcares, chocolates, dulces y similares",12424.51875,1714.233
 1993-07-01,3113,"Elaboración de azúcares, chocolates, dulces y similares",4663.7165,581.53975
@@ -3404,7 +3429,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3113,"Elaboración de azúcares, chocolates, dulces y similares",13400.21025,18379.53875
 2025-01-01,3113,"Elaboración de azúcares, chocolates, dulces y similares",22679.49925,31953.241
 2025-04-01,3113,"Elaboración de azúcares, chocolates, dulces y similares",15992.557,22600.96025
-2025-07-01,3113,"Elaboración de azúcares, chocolates, dulces y similares",10539.61475,15066.5195
+2025-07-01,3113,"Elaboración de azúcares, chocolates, dulces y similares",10538.995,15065.85225
+2025-10-01,3113,"Elaboración de azúcares, chocolates, dulces y similares",12977.3295,18300.344
 1993-01-01,3114,"Conservación de frutas, verduras, guisos y otros alimentos preparados",5532.91825,939.98775
 1993-04-01,3114,"Conservación de frutas, verduras, guisos y otros alimentos preparados",4181.10925,719.257
 1993-07-01,3114,"Conservación de frutas, verduras, guisos y otros alimentos preparados",5197.915,903.43425
@@ -3535,7 +3561,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3114,"Conservación de frutas, verduras, guisos y otros alimentos preparados",12193.774,16926.911
 2025-01-01,3114,"Conservación de frutas, verduras, guisos y otros alimentos preparados",13222.6205,18525.113
 2025-04-01,3114,"Conservación de frutas, verduras, guisos y otros alimentos preparados",12283.14675,17147.68775
-2025-07-01,3114,"Conservación de frutas, verduras, guisos y otros alimentos preparados",12595.13225,17498.096
+2025-07-01,3114,"Conservación de frutas, verduras, guisos y otros alimentos preparados",12595.05225,17498.011
+2025-10-01,3114,"Conservación de frutas, verduras, guisos y otros alimentos preparados",12121.01,16760.3665
 1993-01-01,3115,Elaboración de productos lácteos,7637.1645,1509.41625
 1993-04-01,3115,Elaboración de productos lácteos,8036.32725,1604.3405
 1993-07-01,3115,Elaboración de productos lácteos,8024.90475,1618.86125
@@ -3666,7 +3693,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3115,Elaboración de productos lácteos,16520.611,20813.875
 2025-01-01,3115,Elaboración de productos lácteos,16460.1505,20973.82475
 2025-04-01,3115,Elaboración de productos lácteos,16323.033,21203.61825
-2025-07-01,3115,Elaboración de productos lácteos,16363.5785,21405.06675
+2025-07-01,3115,Elaboración de productos lácteos,16363.3155,21404.78375
+2025-10-01,3115,Elaboración de productos lácteos,16196.083,21325.951
 1993-01-01,3116,"Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestibles",30754.6245,4373.892
 1993-04-01,3116,"Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestibles",32112.52925,4510.05625
 1993-07-01,3116,"Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestibles",31980.56025,4593.686
@@ -3797,7 +3825,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3116,"Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestibles",77114.519,104722.66575
 2025-01-01,3116,"Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestibles",72020.98775,108369.6065
 2025-04-01,3116,"Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestibles",73707.6925,120854.279
-2025-07-01,3116,"Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestibles",76739.2985,112926.28975
+2025-07-01,3116,"Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestibles",76739.269,112926.259
+2025-10-01,3116,"Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestibles",77832.645,115935.12
 1993-01-01,3117,Preparación y envasado de pescados y mariscos,1216.069,120.159
 1993-04-01,3117,Preparación y envasado de pescados y mariscos,1162.65275,117.61325
 1993-07-01,3117,Preparación y envasado de pescados y mariscos,1465.2065,147.65125
@@ -3928,7 +3957,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3117,Preparación y envasado de pescados y mariscos,1325.92775,1662.88675
 2025-01-01,3117,Preparación y envasado de pescados y mariscos,1449.72125,1864.748
 2025-04-01,3117,Preparación y envasado de pescados y mariscos,1495.85125,1926.835
-2025-07-01,3117,Preparación y envasado de pescados y mariscos,1708.49,2162.62725
+2025-07-01,3117,Preparación y envasado de pescados y mariscos,1708.45575,2162.59025
+2025-10-01,3117,Preparación y envasado de pescados y mariscos,1404.12675,1769.60425
 1993-01-01,3118,Elaboración de productos de panadería y tortillas,40674.24475,2594.72825
 1993-04-01,3118,Elaboración de productos de panadería y tortillas,39689.32675,2540.72225
 1993-07-01,3118,Elaboración de productos de panadería y tortillas,41031.59275,2641.52025
@@ -4059,7 +4089,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3118,Elaboración de productos de panadería y tortillas,67028.75675,105570.3795
 2025-01-01,3118,Elaboración de productos de panadería y tortillas,65546.72625,104678.69875
 2025-04-01,3118,Elaboración de productos de panadería y tortillas,66308.1565,106803.4445
-2025-07-01,3118,Elaboración de productos de panadería y tortillas,65854.72225,106717.00075
+2025-07-01,3118,Elaboración de productos de panadería y tortillas,65854.68475,106716.9605
+2025-10-01,3118,Elaboración de productos de panadería y tortillas,68877.12,112354.81725
 1993-01-01,3119,Otras industrias alimentarias,12806.31275,1563.108
 1993-04-01,3119,Otras industrias alimentarias,11463.06275,1407.259
 1993-07-01,3119,Otras industrias alimentarias,11345.161,1528.52625
@@ -4190,7 +4221,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3119,Otras industrias alimentarias,26166.10925,34323.34
 2025-01-01,3119,Otras industrias alimentarias,26580.19925,35572.514
 2025-04-01,3119,Otras industrias alimentarias,26282.288,35480.251
-2025-07-01,3119,Otras industrias alimentarias,25924.111,35035.771
+2025-07-01,3119,Otras industrias alimentarias,25923.9375,35035.58475
+2025-10-01,3119,Otras industrias alimentarias,25606.629,34617.477
 1993-01-01,312,Industria de las bebidas y del tabaco,27262.57175,3753.677
 1993-04-01,312,Industria de las bebidas y del tabaco,28384.01075,3984.60575
 1993-07-01,312,Industria de las bebidas y del tabaco,25670.6625,3696.605
@@ -4321,7 +4353,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,312,Industria de las bebidas y del tabaco,62858.64275,86346.53075
 2025-01-01,312,Industria de las bebidas y del tabaco,58418.315,82811.39725
 2025-04-01,312,Industria de las bebidas y del tabaco,64084.8315,90937.3195
-2025-07-01,312,Industria de las bebidas y del tabaco,64122.7555,91117.96125
+2025-07-01,312,Industria de las bebidas y del tabaco,64122.6005,91117.79425
+2025-10-01,312,Industria de las bebidas y del tabaco,63327.9605,90240.2135
 1993-01-01,3121,Industria de las bebidas,20068.42975,2761.2535
 1993-04-01,3121,Industria de las bebidas,22468.01525,3173.3195
 1993-07-01,3121,Industria de las bebidas,21601.4415,3124.80575
@@ -4452,7 +4485,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3121,Industria de las bebidas,55642.68725,77594.39225
 2025-01-01,3121,Industria de las bebidas,53273.7085,76367.40175
 2025-04-01,3121,Industria de las bebidas,57496.84625,82675.2675
-2025-07-01,3121,Industria de las bebidas,56568.28725,81482.34175
+2025-07-01,3121,Industria de las bebidas,56568.13425,81482.177
+2025-10-01,3121,Industria de las bebidas,54938.612,79417.13425
 1993-01-01,3122,Industria del tabaco,7194.142,992.4235
 1993-04-01,3122,Industria del tabaco,5915.9955,811.28625
 1993-07-01,3122,Industria del tabaco,4069.221,571.79925
@@ -4583,7 +4617,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3122,Industria del tabaco,7215.9555,8752.1385
 2025-01-01,3122,Industria del tabaco,5144.6065,6443.9955
 2025-04-01,3122,Industria del tabaco,6587.98525,8262.052
-2025-07-01,3122,Industria del tabaco,7554.46825,9635.6195
+2025-07-01,3122,Industria del tabaco,7554.46625,9635.61725
+2025-10-01,3122,Industria del tabaco,8389.3485,10823.07925
 1993-01-01,313,Fabricación de insumos textiles y acabado de textiles,8686.47625,1674.1975
 1993-04-01,313,Fabricación de insumos textiles y acabado de textiles,9109.782,1763.16875
 1993-07-01,313,Fabricación de insumos textiles y acabado de textiles,8241.4215,1653.29875
@@ -4714,7 +4749,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,313,Fabricación de insumos textiles y acabado de textiles,6311.60075,7915.38625
 2025-01-01,313,Fabricación de insumos textiles y acabado de textiles,6468.53075,8188.471
 2025-04-01,313,Fabricación de insumos textiles y acabado de textiles,6096.2125,7645.413
-2025-07-01,313,Fabricación de insumos textiles y acabado de textiles,6318.724,7958.4005
+2025-07-01,313,Fabricación de insumos textiles y acabado de textiles,6318.633,7958.30375
+2025-10-01,313,Fabricación de insumos textiles y acabado de textiles,6152.1125,7710.21175
 1993-01-01,3131,"Preparación e hilado de fibras textiles, y fabricación de hilos",2600.8065,375.06375
 1993-04-01,3131,"Preparación e hilado de fibras textiles, y fabricación de hilos",2444.234,321.15225
 1993-07-01,3131,"Preparación e hilado de fibras textiles, y fabricación de hilos",2399.1745,371.521
@@ -4845,7 +4881,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3131,"Preparación e hilado de fibras textiles, y fabricación de hilos",1645.2355,2101.579
 2025-01-01,3131,"Preparación e hilado de fibras textiles, y fabricación de hilos",1728.52875,2224.1955
 2025-04-01,3131,"Preparación e hilado de fibras textiles, y fabricación de hilos",1577.0115,2008.70125
-2025-07-01,3131,"Preparación e hilado de fibras textiles, y fabricación de hilos",1616.87125,2053.09975
+2025-07-01,3131,"Preparación e hilado de fibras textiles, y fabricación de hilos",1616.85025,2053.0775
+2025-10-01,3131,"Preparación e hilado de fibras textiles, y fabricación de hilos",1645.65525,2095.842
 1993-01-01,3132,Fabricación de telas,5519.822,1155.7915
 1993-04-01,3132,Fabricación de telas,5984.86575,1257.56475
 1993-07-01,3132,Fabricación de telas,5204.53625,1115.62625
@@ -4976,7 +5013,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3132,Fabricación de telas,3390.99125,3917.11175
 2025-01-01,3132,Fabricación de telas,3411.14825,3953.976
 2025-04-01,3132,Fabricación de telas,3285.28275,3798.5035
-2025-07-01,3132,Fabricación de telas,3426.5525,3970.9155
+2025-07-01,3132,Fabricación de telas,3426.49325,3970.85225
+2025-10-01,3132,Fabricación de telas,3316.058,3817.8345
 1993-01-01,3133,Acabado de productos textiles y fabricación de telas recubiertas,565.84775,143.34225
 1993-04-01,3133,Acabado de productos textiles y fabricación de telas recubiertas,680.68225,184.45175
 1993-07-01,3133,Acabado de productos textiles y fabricación de telas recubiertas,637.71075,166.1515
@@ -5107,7 +5145,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3133,Acabado de productos textiles y fabricación de telas recubiertas,1275.374,1896.6955
 2025-01-01,3133,Acabado de productos textiles y fabricación de telas recubiertas,1328.85375,2010.2995
 2025-04-01,3133,Acabado de productos textiles y fabricación de telas recubiertas,1233.91825,1838.20825
-2025-07-01,3133,Acabado de productos textiles y fabricación de telas recubiertas,1275.30025,1934.38525
+2025-07-01,3133,Acabado de productos textiles y fabricación de telas recubiertas,1275.2895,1934.374
+2025-10-01,3133,Acabado de productos textiles y fabricación de telas recubiertas,1190.39925,1796.53525
 1993-01-01,314,"Fabricación de productos textiles, excepto prendas de vestir",3098.3615,604.3935
 1993-04-01,314,"Fabricación de productos textiles, excepto prendas de vestir",3535.95825,693.15125
 1993-07-01,314,"Fabricación de productos textiles, excepto prendas de vestir",3919.71175,819.8575
@@ -5238,7 +5277,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,314,"Fabricación de productos textiles, excepto prendas de vestir",4036.29075,5152.546
 2025-01-01,314,"Fabricación de productos textiles, excepto prendas de vestir",3700.42075,4748.15125
 2025-04-01,314,"Fabricación de productos textiles, excepto prendas de vestir",4234.60625,5407.638
-2025-07-01,314,"Fabricación de productos textiles, excepto prendas de vestir",4187.3935,5333.3145
+2025-07-01,314,"Fabricación de productos textiles, excepto prendas de vestir",4185.91875,5331.50175
+2025-10-01,314,"Fabricación de productos textiles, excepto prendas de vestir",3916.64325,4983.77725
 1993-01-01,3141,"Confección de alfombras, blancos y similares",721.9825,110.7665
 1993-04-01,3141,"Confección de alfombras, blancos y similares",688.1475,98.9955
 1993-07-01,3141,"Confección de alfombras, blancos y similares",677.236,104.52025
@@ -5369,7 +5409,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3141,"Confección de alfombras, blancos y similares",972.13675,1300.423
 2025-01-01,3141,"Confección de alfombras, blancos y similares",898.151,1216.046
 2025-04-01,3141,"Confección de alfombras, blancos y similares",940.89025,1281.7565
-2025-07-01,3141,"Confección de alfombras, blancos y similares",829.1845,1143.4265
+2025-07-01,3141,"Confección de alfombras, blancos y similares",827.72525,1141.6305
+2025-10-01,3141,"Confección de alfombras, blancos y similares",926.5395,1261.908
 1993-01-01,3149,"Fabricación de otros productos textiles, excepto prendas de vestir",2376.379,493.627
 1993-04-01,3149,"Fabricación de otros productos textiles, excepto prendas de vestir",2847.81075,594.15575
 1993-07-01,3149,"Fabricación de otros productos textiles, excepto prendas de vestir",3242.47575,715.33725
@@ -5500,7 +5541,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3149,"Fabricación de otros productos textiles, excepto prendas de vestir",3064.154,3852.123
 2025-01-01,3149,"Fabricación de otros productos textiles, excepto prendas de vestir",2802.26975,3532.10525
 2025-04-01,3149,"Fabricación de otros productos textiles, excepto prendas de vestir",3293.716,4125.8815
-2025-07-01,3149,"Fabricación de otros productos textiles, excepto prendas de vestir",3358.209,4189.888
+2025-07-01,3149,"Fabricación de otros productos textiles, excepto prendas de vestir",3358.1935,4189.87125
+2025-10-01,3149,"Fabricación de otros productos textiles, excepto prendas de vestir",2990.10375,3721.86925
 1993-01-01,315,Fabricación de prendas de vestir,13961.95475,2197.7255
 1993-04-01,315,Fabricación de prendas de vestir,14940.09225,2395.3475
 1993-07-01,315,Fabricación de prendas de vestir,14848.01,2423.97375
@@ -5631,7 +5673,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,315,Fabricación de prendas de vestir,13230.651,17585.72575
 2025-01-01,315,Fabricación de prendas de vestir,12079.3595,16400.701
 2025-04-01,315,Fabricación de prendas de vestir,11999.20575,16280.02825
-2025-07-01,315,Fabricación de prendas de vestir,12700.781,17158.962
+2025-07-01,315,Fabricación de prendas de vestir,12700.6915,17158.866
+2025-10-01,315,Fabricación de prendas de vestir,12722.40925,17278.64825
 1993-01-01,3151,Fabricación de prendas de vestir de tejido de punto,2241.77925,415.35225
 1993-04-01,3151,Fabricación de prendas de vestir de tejido de punto,2304.062,453.04375
 1993-07-01,3151,Fabricación de prendas de vestir de tejido de punto,2207.30325,405.263
@@ -5762,7 +5805,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3151,Fabricación de prendas de vestir de tejido de punto,1060.575,1598.8665
 2025-01-01,3151,Fabricación de prendas de vestir de tejido de punto,1054.78925,1598.32925
 2025-04-01,3151,Fabricación de prendas de vestir de tejido de punto,1022.70825,1556.736
-2025-07-01,3151,Fabricación de prendas de vestir de tejido de punto,1017.7795,1534.8305
+2025-07-01,3151,Fabricación de prendas de vestir de tejido de punto,1017.75175,1534.8005
+2025-10-01,3151,Fabricación de prendas de vestir de tejido de punto,1086.32625,1660.078
 1993-01-01,3152,Confección de prendas de vestir,11409.26975,1734.95275
 1993-04-01,3152,Confección de prendas de vestir,12293.5795,1890.0535
 1993-07-01,3152,Confección de prendas de vestir,12239.04575,1955.66725
@@ -5893,7 +5937,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3152,Confección de prendas de vestir,11493.70675,15107.02525
 2025-01-01,3152,Confección de prendas de vestir,10452.4935,14036.114
 2025-04-01,3152,Confección de prendas de vestir,10383.31475,13931.94325
-2025-07-01,3152,Confección de prendas de vestir,11009.37275,14734.55
+2025-07-01,3152,Confección de prendas de vestir,11009.3115,14734.4845
+2025-10-01,3152,Confección de prendas de vestir,10937.3655,14699.4095
 1993-01-01,3159,Confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parte,310.90575,47.4205
 1993-04-01,3159,Confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parte,342.45075,52.25025
 1993-07-01,3159,Confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parte,401.661,63.0435
@@ -6024,7 +6069,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3159,Confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parte,676.36925,879.834
 2025-01-01,3159,Confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parte,572.07675,766.25775
 2025-04-01,3159,Confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parte,593.18275,791.349
-2025-07-01,3159,Confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parte,673.62875,889.5815
+2025-07-01,3159,Confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parte,673.62825,889.581
+2025-10-01,3159,Confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parte,698.7175,919.16075
 1993-01-01,316,"Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos",10735.37125,1453.289
 1993-04-01,316,"Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos",9869.65425,1391.05325
 1993-07-01,316,"Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos",10025.441,1463.46025
@@ -6155,7 +6201,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,316,"Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos",6129.40625,7978.47825
 2025-01-01,316,"Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos",5728.5425,7591.5575
 2025-04-01,316,"Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos",5853.20425,7799.418
-2025-07-01,316,"Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos",6264.8785,8358.41975
+2025-07-01,316,"Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos",6264.7675,8358.30025
+2025-10-01,316,"Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos",5806.19,7789.92775
 1993-01-01,3161,Curtido y acabado de cuero y piel,1644.00325,180.877
 1993-04-01,3161,Curtido y acabado de cuero y piel,1490.2425,166.3065
 1993-07-01,3161,Curtido y acabado de cuero y piel,1730.92925,201.20775
@@ -6286,7 +6333,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3161,Curtido y acabado de cuero y piel,1220.784,1677.604
 2025-01-01,3161,Curtido y acabado de cuero y piel,1229.76975,1724.93925
 2025-04-01,3161,Curtido y acabado de cuero y piel,1231.837,1726.318
-2025-07-01,3161,Curtido y acabado de cuero y piel,1371.47225,1891.83525
+2025-07-01,3161,Curtido y acabado de cuero y piel,1371.443,1891.8035
+2025-10-01,3161,Curtido y acabado de cuero y piel,1134.5045,1565.454
 1993-01-01,3162,Fabricación de calzado,5622.494,845.552
 1993-04-01,3162,Fabricación de calzado,5299.74725,852.73575
 1993-07-01,3162,Fabricación de calzado,6166.4155,1019.995
@@ -6417,7 +6465,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3162,Fabricación de calzado,3852.43225,4915.08475
 2025-01-01,3162,Fabricación de calzado,3520.311,4566.4245
 2025-04-01,3162,Fabricación de calzado,3619.2925,4740.264
-2025-07-01,3162,Fabricación de calzado,3901.05125,5156.1075
+2025-07-01,3162,Fabricación de calzado,3900.97475,5156.02525
+2025-10-01,3162,Fabricación de calzado,3619.73625,4816.74125
 1993-01-01,3169,"Fabricación de otros productos de cuero, piel y materiales sucedáneos",3468.874,426.86
 1993-04-01,3169,"Fabricación de otros productos de cuero, piel y materiales sucedáneos",3079.6645,372.011
 1993-07-01,3169,"Fabricación de otros productos de cuero, piel y materiales sucedáneos",2128.09625,242.2575
@@ -6548,7 +6597,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3169,"Fabricación de otros productos de cuero, piel y materiales sucedáneos",1056.19,1385.7895
 2025-01-01,3169,"Fabricación de otros productos de cuero, piel y materiales sucedáneos",978.46175,1300.19375
 2025-04-01,3169,"Fabricación de otros productos de cuero, piel y materiales sucedáneos",1002.07475,1332.836
-2025-07-01,3169,"Fabricación de otros productos de cuero, piel y materiales sucedáneos",992.355,1310.477
+2025-07-01,3169,"Fabricación de otros productos de cuero, piel y materiales sucedáneos",992.34975,1310.4715
+2025-10-01,3169,"Fabricación de otros productos de cuero, piel y materiales sucedáneos",1051.94925,1407.7325
 1993-01-01,321,Industria de la madera,13462.08825,1909.2505
 1993-04-01,321,Industria de la madera,10392.60375,1476.124
 1993-07-01,321,Industria de la madera,8054.0555,1132.70175
@@ -6679,7 +6729,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,321,Industria de la madera,8034.496,11408.27175
 2025-01-01,321,Industria de la madera,8284.65725,11723.1135
 2025-04-01,321,Industria de la madera,7913.3355,11183.413
-2025-07-01,321,Industria de la madera,7879.2625,11110.998
+2025-07-01,321,Industria de la madera,7872.72825,11100.901
+2025-10-01,321,Industria de la madera,7430.536,10609.751
 1993-01-01,3211,Aserrado y conservación de la madera,6573.0215,1006.094
 1993-04-01,3211,Aserrado y conservación de la madera,5360.362,815.9735
 1993-07-01,3211,Aserrado y conservación de la madera,1913.5915,288.522
@@ -6810,7 +6861,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3211,Aserrado y conservación de la madera,3507.14225,4933.731
 2025-01-01,3211,Aserrado y conservación de la madera,4008.81725,5522.8825
 2025-04-01,3211,Aserrado y conservación de la madera,3627.48125,4913.389
-2025-07-01,3211,Aserrado y conservación de la madera,3890.49275,5224.1605
+2025-07-01,3211,Aserrado y conservación de la madera,3890.487,5224.1545
+2025-10-01,3211,Aserrado y conservación de la madera,3431.375,4642.56925
 1993-01-01,3212,Fabricación de laminados y aglutinados de madera,447.468,78.0625
 1993-04-01,3212,Fabricación de laminados y aglutinados de madera,496.58075,87.96525
 1993-07-01,3212,Fabricación de laminados y aglutinados de madera,523.453,94.34925
@@ -6941,7 +6993,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3212,Fabricación de laminados y aglutinados de madera,534.7295,701.531
 2025-01-01,3212,Fabricación de laminados y aglutinados de madera,513.11625,663.27225
 2025-04-01,3212,Fabricación de laminados y aglutinados de madera,545.318,714.891
-2025-07-01,3212,Fabricación de laminados y aglutinados de madera,488.23775,650.646
+2025-07-01,3212,Fabricación de laminados y aglutinados de madera,488.21925,650.626
+2025-10-01,3212,Fabricación de laminados y aglutinados de madera,505.506,685.73025
 1993-01-01,3219,Fabricación de otros productos de madera,6441.59875,825.094
 1993-04-01,3219,Fabricación de otros productos de madera,4535.661,572.18525
 1993-07-01,3219,Fabricación de otros productos de madera,5617.011,749.8305
@@ -7072,7 +7125,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3219,Fabricación de otros productos de madera,3992.62425,5773.00975
 2025-01-01,3219,Fabricación de otros productos de madera,3762.72375,5536.95875
 2025-04-01,3219,Fabricación de otros productos de madera,3740.53625,5555.133
-2025-07-01,3219,Fabricación de otros productos de madera,3500.532,5236.1915
+2025-07-01,3219,Fabricación de otros productos de madera,3494.022,5226.1205
+2025-10-01,3219,Fabricación de otros productos de madera,3493.655,5281.4515
 1993-01-01,322,Industria del papel,11403.35625,1646.8345
 1993-04-01,322,Industria del papel,11566.902,1679.12075
 1993-07-01,322,Industria del papel,11286.02675,1645.328
@@ -7203,7 +7257,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,322,Industria del papel,25147.848,31537.54825
 2025-01-01,322,Industria del papel,26038.3265,33095.31175
 2025-04-01,322,Industria del papel,25374.25425,32297.599
-2025-07-01,322,Industria del papel,24779.99625,31505.69375
+2025-07-01,322,Industria del papel,24779.637,31505.30725
+2025-10-01,322,Industria del papel,24367.82775,31041.27425
 1993-01-01,3221,"Fabricación de pulpa, papel y cartón",4576.6445,696.782
 1993-04-01,3221,"Fabricación de pulpa, papel y cartón",5042.8,757.02975
 1993-07-01,3221,"Fabricación de pulpa, papel y cartón",4928.5305,723.27625
@@ -7334,7 +7389,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3221,"Fabricación de pulpa, papel y cartón",8877.80825,10943.25125
 2025-01-01,3221,"Fabricación de pulpa, papel y cartón",9262.67425,11593.9975
 2025-04-01,3221,"Fabricación de pulpa, papel y cartón",9071.5765,11416.023
-2025-07-01,3221,"Fabricación de pulpa, papel y cartón",8786.848,11085.28775
+2025-07-01,3221,"Fabricación de pulpa, papel y cartón",8786.7095,11085.1385
+2025-10-01,3221,"Fabricación de pulpa, papel y cartón",8855.65575,11183.1525
 1993-01-01,3222,Fabricación de productos de cartón y papel,6826.71175,950.0525
 1993-04-01,3222,Fabricación de productos de cartón y papel,6524.102,922.091
 1993-07-01,3222,Fabricación de productos de cartón y papel,6357.49625,922.05175
@@ -7465,7 +7521,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3222,Fabricación de productos de cartón y papel,16270.03975,20594.297
 2025-01-01,3222,Fabricación de productos de cartón y papel,16775.65225,21501.31425
 2025-04-01,3222,Fabricación de productos de cartón y papel,16302.67775,20881.576
-2025-07-01,3222,Fabricación de productos de cartón y papel,15993.14825,20420.406
+2025-07-01,3222,Fabricación de productos de cartón y papel,15992.9275,20420.16875
+2025-10-01,3222,Fabricación de productos de cartón y papel,15512.172,19858.12175
 1993-01-01,323,Impresión e industrias conexas,3936.116,775.338
 1993-04-01,323,Impresión e industrias conexas,3510.1235,694.31525
 1993-07-01,323,Impresión e industrias conexas,5195.4355,1092.794
@@ -7596,7 +7653,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,323,Impresión e industrias conexas,6474.426,9265.7975
 2025-01-01,323,Impresión e industrias conexas,5724.458,8305.88525
 2025-04-01,323,Impresión e industrias conexas,6004.917,8799.1605
-2025-07-01,323,Impresión e industrias conexas,5923.8535,8693.5335
+2025-07-01,323,Impresión e industrias conexas,5923.743,8693.4145
+2025-10-01,323,Impresión e industrias conexas,6133.66025,9014.0855
 1993-01-01,3231,Impresión e industrias conexas,3936.116,775.338
 1993-04-01,3231,Impresión e industrias conexas,3510.1235,694.31525
 1993-07-01,3231,Impresión e industrias conexas,5195.4355,1092.794
@@ -7727,7 +7785,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3231,Impresión e industrias conexas,6474.426,9265.7975
 2025-01-01,3231,Impresión e industrias conexas,5724.458,8305.88525
 2025-04-01,3231,Impresión e industrias conexas,6004.917,8799.1605
-2025-07-01,3231,Impresión e industrias conexas,5923.8535,8693.5335
+2025-07-01,3231,Impresión e industrias conexas,5923.743,8693.4145
+2025-10-01,3231,Impresión e industrias conexas,6133.66025,9014.0855
 1993-01-01,324,Fabricación de productos derivados del petróleo y del carbón,60042.007,3186.88
 1993-04-01,324,Fabricación de productos derivados del petróleo y del carbón,61265.41675,3278.37525
 1993-07-01,324,Fabricación de productos derivados del petróleo y del carbón,64166.18525,3410.172
@@ -7856,9 +7915,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,324,Fabricación de productos derivados del petróleo y del carbón,54292.4805,43393.7975
 2024-07-01,324,Fabricación de productos derivados del petróleo y del carbón,57269.553,48866.51675
 2024-10-01,324,Fabricación de productos derivados del petróleo y del carbón,49329.912,42853.1625
-2025-01-01,324,Fabricación de productos derivados del petróleo y del carbón,55629.6495,48959.01325
-2025-04-01,324,Fabricación de productos derivados del petróleo y del carbón,61453.2335,52232.47225
-2025-07-01,324,Fabricación de productos derivados del petróleo y del carbón,62870.84525,51966.24025
+2025-01-01,324,Fabricación de productos derivados del petróleo y del carbón,55640.00575,48967.652
+2025-04-01,324,Fabricación de productos derivados del petróleo y del carbón,61522.7205,52290.0855
+2025-07-01,324,Fabricación de productos derivados del petróleo y del carbón,62859.8835,51957.531
+2025-10-01,324,Fabricación de productos derivados del petróleo y del carbón,70091.355,56638.702
 1993-01-01,3241,Fabricación de productos derivados del petróleo y del carbón,60042.007,3186.88
 1993-04-01,3241,Fabricación de productos derivados del petróleo y del carbón,61265.41675,3278.37525
 1993-07-01,3241,Fabricación de productos derivados del petróleo y del carbón,64166.18525,3410.172
@@ -7987,9 +8047,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,3241,Fabricación de productos derivados del petróleo y del carbón,54292.4805,43393.7975
 2024-07-01,3241,Fabricación de productos derivados del petróleo y del carbón,57269.553,48866.51675
 2024-10-01,3241,Fabricación de productos derivados del petróleo y del carbón,49329.912,42853.1625
-2025-01-01,3241,Fabricación de productos derivados del petróleo y del carbón,55629.6495,48959.01325
-2025-04-01,3241,Fabricación de productos derivados del petróleo y del carbón,61453.2335,52232.47225
-2025-07-01,3241,Fabricación de productos derivados del petróleo y del carbón,62870.84525,51966.24025
+2025-01-01,3241,Fabricación de productos derivados del petróleo y del carbón,55640.00575,48967.652
+2025-04-01,3241,Fabricación de productos derivados del petróleo y del carbón,61522.7205,52290.0855
+2025-07-01,3241,Fabricación de productos derivados del petróleo y del carbón,62859.8835,51957.531
+2025-10-01,3241,Fabricación de productos derivados del petróleo y del carbón,70091.355,56638.702
 1993-01-01,325,Industria química,69645.9015,9134.42925
 1993-04-01,325,Industria química,72671.129,9472.99625
 1993-07-01,325,Industria química,71611.53025,9329.782
@@ -8120,7 +8181,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,325,Industria química,92724.4055,120738.3155
 2025-01-01,325,Industria química,93184.68225,124329.977
 2025-04-01,325,Industria química,88751.11925,118532.789
-2025-07-01,325,Industria química,92317.76975,121798.06975
+2025-07-01,325,Industria química,92302.67725,121778.77475
+2025-10-01,325,Industria química,88702.193,117313.475
 1993-01-01,3251,Fabricación de productos químicos básicos,28419.28125,4250.5315
 1993-04-01,3251,Fabricación de productos químicos básicos,27974.1375,4024.206
 1993-07-01,3251,Fabricación de productos químicos básicos,27986.3725,3926.07925
@@ -8251,7 +8313,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3251,Fabricación de productos químicos básicos,25175.99225,31346.78675
 2025-01-01,3251,Fabricación de productos químicos básicos,24807.0635,32748.278
 2025-04-01,3251,Fabricación de productos químicos básicos,22884.236,30107.337
-2025-07-01,3251,Fabricación de productos químicos básicos,24494.866,31469.997
+2025-07-01,3251,Fabricación de productos químicos básicos,24494.72725,31469.8485
+2025-10-01,3251,Fabricación de productos químicos básicos,22180.59125,29225.37525
 1993-01-01,3252,"Fabricación de resinas y hules sintéticos, y fibras químicas",6984.1895,911.67375
 1993-04-01,3252,"Fabricación de resinas y hules sintéticos, y fibras químicas",7462.039,986.79925
 1993-07-01,3252,"Fabricación de resinas y hules sintéticos, y fibras químicas",6856.84175,917.07625
@@ -8382,7 +8445,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3252,"Fabricación de resinas y hules sintéticos, y fibras químicas",9740.57025,15082.16075
 2025-01-01,3252,"Fabricación de resinas y hules sintéticos, y fibras químicas",10333.795,16185.715
 2025-04-01,3252,"Fabricación de resinas y hules sintéticos, y fibras químicas",10300.4125,15871.075
-2025-07-01,3252,"Fabricación de resinas y hules sintéticos, y fibras químicas",10383.99375,15488.75125
+2025-07-01,3252,"Fabricación de resinas y hules sintéticos, y fibras químicas",10378.38125,15483.219
+2025-10-01,3252,"Fabricación de resinas y hules sintéticos, y fibras químicas",10185.0555,14611.45025
 1993-01-01,3253,"Fabricación de fertilizantes, pesticidas y otros agroquímicos",2813.62625,275.648
 1993-04-01,3253,"Fabricación de fertilizantes, pesticidas y otros agroquímicos",3771.143,347.00275
 1993-07-01,3253,"Fabricación de fertilizantes, pesticidas y otros agroquímicos",4228.19,372.368
@@ -8513,7 +8577,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3253,"Fabricación de fertilizantes, pesticidas y otros agroquímicos",5027.67,6457.55775
 2025-01-01,3253,"Fabricación de fertilizantes, pesticidas y otros agroquímicos",4816.40125,6305.7725
 2025-04-01,3253,"Fabricación de fertilizantes, pesticidas y otros agroquímicos",4426.763,5791.163
-2025-07-01,3253,"Fabricación de fertilizantes, pesticidas y otros agroquímicos",4897.28125,6273.36425
+2025-07-01,3253,"Fabricación de fertilizantes, pesticidas y otros agroquímicos",4891.87025,6265.59025
+2025-10-01,3253,"Fabricación de fertilizantes, pesticidas y otros agroquímicos",3636.84925,4721.23725
 1993-01-01,3254,Fabricación de productos farmacéuticos,17012.0735,1545.76775
 1993-04-01,3254,Fabricación de productos farmacéuticos,18408.5075,1741.875
 1993-07-01,3254,Fabricación de productos farmacéuticos,17648.7985,1724.32525
@@ -8644,7 +8709,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3254,Fabricación de productos farmacéuticos,21736.44475,26624.242
 2025-01-01,3254,Fabricación de productos farmacéuticos,22863.643,28401.9305
 2025-04-01,3254,Fabricación de productos farmacéuticos,22068.33775,27520.23775
-2025-07-01,3254,Fabricación de productos farmacéuticos,23572.20525,29315.51075
+2025-07-01,3254,Fabricación de productos farmacéuticos,23572.02,29315.312
+2025-10-01,3254,Fabricación de productos farmacéuticos,23075.08625,28983.1295
 1993-01-01,3255,"Fabricación de pinturas, recubrimientos y adhesivos",4049.47475,487.25925
 1993-04-01,3255,"Fabricación de pinturas, recubrimientos y adhesivos",4053.4575,491.1695
 1993-07-01,3255,"Fabricación de pinturas, recubrimientos y adhesivos",3749.43175,456.457
@@ -8775,7 +8841,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3255,"Fabricación de pinturas, recubrimientos y adhesivos",5999.20275,8429.16625
 2025-01-01,3255,"Fabricación de pinturas, recubrimientos y adhesivos",5776.87225,8323.51275
 2025-04-01,3255,"Fabricación de pinturas, recubrimientos y adhesivos",5742.82525,8321.51575
-2025-07-01,3255,"Fabricación de pinturas, recubrimientos y adhesivos",5977.716,8783.6595
+2025-07-01,3255,"Fabricación de pinturas, recubrimientos y adhesivos",5974.2195,8778.27675
+2025-10-01,3255,"Fabricación de pinturas, recubrimientos y adhesivos",5832.26375,8615.7635
 1993-01-01,3256,"Fabricación de jabones, limpiadores y preparaciones de tocador",8211.20375,1378.55625
 1993-04-01,3256,"Fabricación de jabones, limpiadores y preparaciones de tocador",8598.999,1580.77725
 1993-07-01,3256,"Fabricación de jabones, limpiadores y preparaciones de tocador",8004.28525,1521.9255
@@ -8906,7 +8973,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3256,"Fabricación de jabones, limpiadores y preparaciones de tocador",17055.85325,20943.63625
 2025-01-01,3256,"Fabricación de jabones, limpiadores y preparaciones de tocador",17055.442,21499.22375
 2025-04-01,3256,"Fabricación de jabones, limpiadores y preparaciones de tocador",16306.61775,20748.0885
-2025-07-01,3256,"Fabricación de jabones, limpiadores y preparaciones de tocador",16594.77875,21115.08025
+2025-07-01,3256,"Fabricación de jabones, limpiadores y preparaciones de tocador",16594.63475,21114.925
+2025-10-01,3256,"Fabricación de jabones, limpiadores y preparaciones de tocador",16523.1225,21133.48275
 1993-01-01,3259,Fabricación de otros productos químicos,2156.0525,284.99275
 1993-04-01,3259,Fabricación de otros productos químicos,2402.8455,301.1665
 1993-07-01,3259,Fabricación de otros productos químicos,3137.6105,411.55075
@@ -9037,7 +9105,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3259,Fabricación de otros productos químicos,7988.67225,11854.76575
 2025-01-01,3259,Fabricación de otros productos químicos,7531.46525,10865.5445
 2025-04-01,3259,Fabricación de otros productos químicos,7021.927,10173.372
-2025-07-01,3259,Fabricación de otros productos químicos,6396.92875,9351.70675
+2025-07-01,3259,Fabricación de otros productos químicos,6396.82425,9351.60325
+2025-10-01,3259,Fabricación de otros productos químicos,7269.2245,10023.0365
 1993-01-01,326,Industria del plástico y del hule,22769.6805,2506.771
 1993-04-01,326,Industria del plástico y del hule,21072.64925,2379.3545
 1993-07-01,326,Industria del plástico y del hule,19756.11625,2320.04725
@@ -9168,7 +9237,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,326,Industria del plástico y del hule,39154.71375,49554.227
 2025-01-01,326,Industria del plástico y del hule,40597.098,51961.8205
 2025-04-01,326,Industria del plástico y del hule,41061.8675,52311.9245
-2025-07-01,326,Industria del plástico y del hule,41429.46375,52274.1805
+2025-07-01,326,Industria del plástico y del hule,41478.311,52349.5775
+2025-10-01,326,Industria del plástico y del hule,38484.1215,48553.472
 1993-01-01,3261,Fabricación de productos de plástico,19076.91175,2001.1195
 1993-04-01,3261,Fabricación de productos de plástico,17361.85575,1871.48725
 1993-07-01,3261,Fabricación de productos de plástico,16313.6515,1850.37175
@@ -9299,7 +9369,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3261,Fabricación de productos de plástico,30781.61675,39423.95025
 2025-01-01,3261,Fabricación de productos de plástico,31536.15475,40878.05825
 2025-04-01,3261,Fabricación de productos de plástico,31863.63825,41098.83225
-2025-07-01,3261,Fabricación de productos de plástico,32158.77225,41036.23275
+2025-07-01,3261,Fabricación de productos de plástico,32201.25775,41103.49725
+2025-10-01,3261,Fabricación de productos de plástico,30138.3495,38407.886
 1993-01-01,3262,Fabricación de productos de hule,3692.76875,505.6515
 1993-04-01,3262,Fabricación de productos de hule,3710.7935,507.86725
 1993-07-01,3262,Fabricación de productos de hule,3442.46475,469.6755
@@ -9430,7 +9501,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3262,Fabricación de productos de hule,8373.097,10130.27675
 2025-01-01,3262,Fabricación de productos de hule,9060.94325,11083.76225
 2025-04-01,3262,Fabricación de productos de hule,9198.22925,11213.09225
-2025-07-01,3262,Fabricación de productos de hule,9270.6915,11237.94775
+2025-07-01,3262,Fabricación de productos de hule,9277.05325,11246.08025
+2025-10-01,3262,Fabricación de productos de hule,8345.772,10145.586
 1993-01-01,327,Fabricación de productos a base de minerales no metálicos,25419.328,4112.784
 1993-04-01,327,Fabricación de productos a base de minerales no metálicos,26543.35075,4319.4485
 1993-07-01,327,Fabricación de productos a base de minerales no metálicos,25781.879,4277.921
@@ -9561,7 +9633,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,327,Fabricación de productos a base de minerales no metálicos,38117.7775,54141.94575
 2025-01-01,327,Fabricación de productos a base de minerales no metálicos,37445.843,54066.047
 2025-04-01,327,Fabricación de productos a base de minerales no metálicos,38625.0535,56579.66625
-2025-07-01,327,Fabricación de productos a base de minerales no metálicos,38933.42075,57242.56425
+2025-07-01,327,Fabricación de productos a base de minerales no metálicos,38878.14775,57165.4535
+2025-10-01,327,Fabricación de productos a base de minerales no metálicos,38258.35775,56582.4905
 1993-01-01,3271,Fabricación de productos a base de arcillas y minerales refractarios,4041.81425,723.86175
 1993-04-01,3271,Fabricación de productos a base de arcillas y minerales refractarios,3942.11275,707.87475
 1993-07-01,3271,Fabricación de productos a base de arcillas y minerales refractarios,4159.79225,767.056
@@ -9692,7 +9765,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3271,Fabricación de productos a base de arcillas y minerales refractarios,6420.76525,8449.80775
 2025-01-01,3271,Fabricación de productos a base de arcillas y minerales refractarios,6468.8095,8687.95075
 2025-04-01,3271,Fabricación de productos a base de arcillas y minerales refractarios,6563.2375,8878.38075
-2025-07-01,3271,Fabricación de productos a base de arcillas y minerales refractarios,6680.72125,9049.20575
+2025-07-01,3271,Fabricación de productos a base de arcillas y minerales refractarios,6679.65175,9047.92875
+2025-10-01,3271,Fabricación de productos a base de arcillas y minerales refractarios,6655.00125,9012.5265
 1993-01-01,3272,Fabricación de vidrio y productos de vidrio,4799.85825,900.58075
 1993-04-01,3272,Fabricación de vidrio y productos de vidrio,6270.4195,1188.8055
 1993-07-01,3272,Fabricación de vidrio y productos de vidrio,5337.688,1022.0425
@@ -9823,7 +9897,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3272,Fabricación de vidrio y productos de vidrio,7619.25775,9756.16225
 2025-01-01,3272,Fabricación de vidrio y productos de vidrio,8137.22075,10540.8325
 2025-04-01,3272,Fabricación de vidrio y productos de vidrio,8325.67125,10906.45925
-2025-07-01,3272,Fabricación de vidrio y productos de vidrio,8457.27175,10980.329
+2025-07-01,3272,Fabricación de vidrio y productos de vidrio,8451.66575,10973.15075
+2025-10-01,3272,Fabricación de vidrio y productos de vidrio,7746.738,10000.48075
 1993-01-01,3273,Fabricación de cemento y productos de concreto,13655.87275,1782.365
 1993-04-01,3273,Fabricación de cemento y productos de concreto,13576.27625,1788.425
 1993-07-01,3273,Fabricación de cemento y productos de concreto,13550.01175,1811.20125
@@ -9954,7 +10029,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3273,Fabricación de cemento y productos de concreto,20206.38425,29896.2025
 2025-01-01,3273,Fabricación de cemento y productos de concreto,19242.62275,29173.113
 2025-04-01,3273,Fabricación de cemento y productos de concreto,19962.838,30770.3565
-2025-07-01,3273,Fabricación de cemento y productos de concreto,20060.87575,31179.82
+2025-07-01,3273,Fabricación de cemento y productos de concreto,20012.31225,31111.201
+2025-10-01,3273,Fabricación de cemento y productos de concreto,20336.00925,31817.1035
 1993-01-01,3274,"Fabricación de cal, yeso y productos de yeso",938.30975,128.91475
 1993-04-01,3274,"Fabricación de cal, yeso y productos de yeso",925.9495,129.752
 1993-07-01,3274,"Fabricación de cal, yeso y productos de yeso",833.033,122.1765
@@ -10085,7 +10161,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3274,"Fabricación de cal, yeso y productos de yeso",2271.6055,3276.2635
 2025-01-01,3274,"Fabricación de cal, yeso y productos de yeso",2052.73875,2986.82875
 2025-04-01,3274,"Fabricación de cal, yeso y productos de yeso",2159.69475,3171.70375
-2025-07-01,3274,"Fabricación de cal, yeso y productos de yeso",2082.13125,3053.47275
+2025-07-01,3274,"Fabricación de cal, yeso y productos de yeso",2082.10575,3053.44525
+2025-10-01,3274,"Fabricación de cal, yeso y productos de yeso",1951.05125,2893.8655
 1993-01-01,3279,Fabricación de otros productos a base de minerales no metálicos,1983.473,577.06175
 1993-04-01,3279,Fabricación de otros productos a base de minerales no metálicos,1828.59275,504.59125
 1993-07-01,3279,Fabricación de otros productos a base de minerales no metálicos,1901.354,555.44475
@@ -10216,7 +10293,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3279,Fabricación de otros productos a base de minerales no metálicos,1599.76475,2763.50975
 2025-01-01,3279,Fabricación de otros productos a base de minerales no metálicos,1544.45125,2677.322
 2025-04-01,3279,Fabricación de otros productos a base de minerales no metálicos,1613.612,2852.766
-2025-07-01,3279,Fabricación de otros productos a base de minerales no metálicos,1652.42075,2979.73675
+2025-07-01,3279,Fabricación de otros productos a base de minerales no metálicos,1652.41225,2979.72775
+2025-10-01,3279,Fabricación de otros productos a base de minerales no metálicos,1569.558,2858.51425
 1993-01-01,331,Industrias metálicas básicas,44297.948,3316.28775
 1993-04-01,331,Industrias metálicas básicas,44279.85425,3273.5745
 1993-07-01,331,Industrias metálicas básicas,42836.165,3132.2025
@@ -10347,7 +10425,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,331,Industrias metálicas básicas,64434.28,91159.20525
 2025-01-01,331,Industrias metálicas básicas,65786.26175,94717.86675
 2025-04-01,331,Industrias metálicas básicas,62605.09575,91310.54
-2025-07-01,331,Industrias metálicas básicas,63277.2495,91988.87625
+2025-07-01,331,Industrias metálicas básicas,63277.77525,91989.26975
+2025-10-01,331,Industrias metálicas básicas,61498.293,97252.69675
 1993-01-01,3311,Industria básica del hierro y del acero,10349.8355,920.8925
 1993-04-01,3311,Industria básica del hierro y del acero,9974.793,884.729
 1993-07-01,3311,Industria básica del hierro y del acero,9832.93275,879.837
@@ -10478,7 +10557,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3311,Industria básica del hierro y del acero,10963.83675,12601.97475
 2025-01-01,3311,Industria básica del hierro y del acero,11460.51575,13339.07875
 2025-04-01,3311,Industria básica del hierro y del acero,10032.61625,11690.32075
-2025-07-01,3311,Industria básica del hierro y del acero,9793.59,11206.834
+2025-07-01,3311,Industria básica del hierro y del acero,9793.51675,11206.75575
+2025-10-01,3311,Industria básica del hierro y del acero,10249.034,11405.7995
 1993-01-01,3312,Fabricación de productos de hierro y acero,8234.462,844.04575
 1993-04-01,3312,Fabricación de productos de hierro y acero,6274.591,677.1005
 1993-07-01,3312,Fabricación de productos de hierro y acero,5719.98825,560.85775
@@ -10609,7 +10689,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3312,Fabricación de productos de hierro y acero,21077.08,23105.04325
 2025-01-01,3312,Fabricación de productos de hierro y acero,21859.685,23674.56175
 2025-04-01,3312,Fabricación de productos de hierro y acero,21086.70175,23221.76
-2025-07-01,3312,Fabricación de productos de hierro y acero,20784.588,22744.1855
+2025-07-01,3312,Fabricación de productos de hierro y acero,20785.25275,22744.72725
+2025-10-01,3312,Fabricación de productos de hierro y acero,20780.675,22703.13475
 1993-01-01,3313,Industria básica del aluminio,971.72675,169.00025
 1993-04-01,3313,Industria básica del aluminio,1391.133,244.78075
 1993-07-01,3313,Industria básica del aluminio,1302.79,233.7745
@@ -10740,7 +10821,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3313,Industria básica del aluminio,3559.03375,5282.5995
 2025-01-01,3313,Industria básica del aluminio,3663.66075,5858.208
 2025-04-01,3313,Industria básica del aluminio,3491.56025,5093.49275
-2025-07-01,3313,Industria básica del aluminio,3355.561,4996.60125
+2025-07-01,3313,Industria básica del aluminio,3355.52625,4996.56375
+2025-10-01,3313,Industria básica del aluminio,3236.32875,5012.57925
 1993-01-01,3314,"Industrias de metales no ferrosos, excepto aluminio",22052.75775,1139.72675
 1993-04-01,3314,"Industrias de metales no ferrosos, excepto aluminio",23838.43375,1210.06075
 1993-07-01,3314,"Industrias de metales no ferrosos, excepto aluminio",23234.975,1210.24375
@@ -10871,7 +10953,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3314,"Industrias de metales no ferrosos, excepto aluminio",23661.8315,42838.5915
 2025-01-01,3314,"Industrias de metales no ferrosos, excepto aluminio",23403.6815,44034.8445
 2025-04-01,3314,"Industrias de metales no ferrosos, excepto aluminio",22267.32625,43260.887
-2025-07-01,3314,"Industrias de metales no ferrosos, excepto aluminio",23548.24025,45141.63
+2025-07-01,3314,"Industrias de metales no ferrosos, excepto aluminio",23548.23475,45141.624
+2025-10-01,3314,"Industrias de metales no ferrosos, excepto aluminio",22014.26,51098.51725
 1993-01-01,3315,Moldeo por fundición de piezas metálicas,2689.166,242.6225
 1993-04-01,3315,Moldeo por fundición de piezas metálicas,2800.9035,256.9035
 1993-07-01,3315,Moldeo por fundición de piezas metálicas,2745.479,247.4895
@@ -11002,7 +11085,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3315,Moldeo por fundición de piezas metálicas,5172.498,7330.99625
 2025-01-01,3315,Moldeo por fundición de piezas metálicas,5398.71875,7811.17375
 2025-04-01,3315,Moldeo por fundición de piezas metálicas,5726.89125,8044.0795
-2025-07-01,3315,Moldeo por fundición de piezas metálicas,5795.27025,7899.6255
+2025-07-01,3315,Moldeo por fundición de piezas metálicas,5795.24475,7899.599
+2025-10-01,3315,Moldeo por fundición de piezas metálicas,5217.99525,7032.666
 1993-01-01,332,Fabricación de productos metálicos,30972.42225,3073.5625
 1993-04-01,332,Fabricación de productos metálicos,25382.6135,2694.1435
 1993-07-01,332,Fabricación de productos metálicos,29389.76925,3087.337
@@ -11133,7 +11217,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,332,Fabricación de productos metálicos,39996.43175,57147.45425
 2025-01-01,332,Fabricación de productos metálicos,41060.64425,59069.718
 2025-04-01,332,Fabricación de productos metálicos,39912.2,57822.883
-2025-07-01,332,Fabricación de productos metálicos,40539.54825,58226.6245
+2025-07-01,332,Fabricación de productos metálicos,40545.552,58235.65125
+2025-10-01,332,Fabricación de productos metálicos,38709.572,55638.23625
 1993-01-01,3321,Fabricación de productos metálicos forjados y troquelados,1229.2085,204.185
 1993-04-01,3321,Fabricación de productos metálicos forjados y troquelados,1318.0455,220.58225
 1993-07-01,3321,Fabricación de productos metálicos forjados y troquelados,1174.85625,198.02525
@@ -11264,7 +11349,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3321,Fabricación de productos metálicos forjados y troquelados,1467.23,1942.03025
 2025-01-01,3321,Fabricación de productos metálicos forjados y troquelados,1632.214,2152.45125
 2025-04-01,3321,Fabricación de productos metálicos forjados y troquelados,1589.257,2076.102
-2025-07-01,3321,Fabricación de productos metálicos forjados y troquelados,1455.948,1854.557
+2025-07-01,3321,Fabricación de productos metálicos forjados y troquelados,1455.9405,1854.54925
+2025-10-01,3321,Fabricación de productos metálicos forjados y troquelados,1297.871,1628.00575
 1993-01-01,3322,Fabricación de herramientas de mano sin motor y utensilios de cocina metálicos,1906.26725,221.1235
 1993-04-01,3322,Fabricación de herramientas de mano sin motor y utensilios de cocina metálicos,1730.2425,200.2765
 1993-07-01,3322,Fabricación de herramientas de mano sin motor y utensilios de cocina metálicos,1530.51425,189.65275
@@ -11395,7 +11481,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3322,Fabricación de herramientas de mano sin motor y utensilios de cocina metálicos,4770.424,5932.75775
 2025-01-01,3322,Fabricación de herramientas de mano sin motor y utensilios de cocina metálicos,5045.483,6468.17775
 2025-04-01,3322,Fabricación de herramientas de mano sin motor y utensilios de cocina metálicos,4528.61525,5904.989
-2025-07-01,3322,Fabricación de herramientas de mano sin motor y utensilios de cocina metálicos,4642.078,6056.947
+2025-07-01,3322,Fabricación de herramientas de mano sin motor y utensilios de cocina metálicos,4642.49725,6057.49675
+2025-10-01,3322,Fabricación de herramientas de mano sin motor y utensilios de cocina metálicos,4689.7885,6164.024
 1993-01-01,3323,Fabricación de estructuras metálicas y productos de herrería,11606.59325,954.79925
 1993-04-01,3323,Fabricación de estructuras metálicas y productos de herrería,8726.8955,775.3315
 1993-07-01,3323,Fabricación de estructuras metálicas y productos de herrería,12641.87,1150.14675
@@ -11526,7 +11613,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3323,Fabricación de estructuras metálicas y productos de herrería,7628.665,11881.3215
 2025-01-01,3323,Fabricación de estructuras metálicas y productos de herrería,7538.2605,11696.6055
 2025-04-01,3323,Fabricación de estructuras metálicas y productos de herrería,7193.07725,11265.29375
-2025-07-01,3323,Fabricación de estructuras metálicas y productos de herrería,7303.59675,11464.3905
+2025-07-01,3323,Fabricación de estructuras metálicas y productos de herrería,7303.443,11464.225
+2025-10-01,3323,Fabricación de estructuras metálicas y productos de herrería,7098.84875,11179.15475
 1993-01-01,3324,"Fabricación de calderas, tanques y envases metálicos",4622.6925,472.08475
 1993-04-01,3324,"Fabricación de calderas, tanques y envases metálicos",3484.70525,381.58625
 1993-07-01,3324,"Fabricación de calderas, tanques y envases metálicos",2689.41525,304.18075
@@ -11657,7 +11745,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3324,"Fabricación de calderas, tanques y envases metálicos",3042.4105,4414.3175
 2025-01-01,3324,"Fabricación de calderas, tanques y envases metálicos",3321.46,4827.49225
 2025-04-01,3324,"Fabricación de calderas, tanques y envases metálicos",3126.83275,4486.1365
-2025-07-01,3324,"Fabricación de calderas, tanques y envases metálicos",3124.293,4401.02725
+2025-07-01,3324,"Fabricación de calderas, tanques y envases metálicos",3124.215,4400.94325
+2025-10-01,3324,"Fabricación de calderas, tanques y envases metálicos",3019.4355,4270.275
 1993-01-01,3325,Fabricación de herrajes y cerraduras,1162.4295,100.89225
 1993-04-01,3325,Fabricación de herrajes y cerraduras,615.17725,54.02575
 1993-07-01,3325,Fabricación de herrajes y cerraduras,795.17475,70.72575
@@ -11788,7 +11877,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3325,Fabricación de herrajes y cerraduras,2179.25725,3052.5745
 2025-01-01,3325,Fabricación de herrajes y cerraduras,2279.65175,3187.9785
 2025-04-01,3325,Fabricación de herrajes y cerraduras,2216.703,3103.3
-2025-07-01,3325,Fabricación de herrajes y cerraduras,2287.474,3233.88225
+2025-07-01,3325,Fabricación de herrajes y cerraduras,2286.7395,3232.7515
+2025-10-01,3325,Fabricación de herrajes y cerraduras,2102.329,2992.305
 1993-01-01,3326,"Fabricación de alambre, productos de alambre y resortes",2380.7245,331.274
 1993-04-01,3326,"Fabricación de alambre, productos de alambre y resortes",2330.27175,325.752
 1993-07-01,3326,"Fabricación de alambre, productos de alambre y resortes",2074.636,289.5605
@@ -11919,7 +12009,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3326,"Fabricación de alambre, productos de alambre y resortes",2978.627,4235.8985
 2025-01-01,3326,"Fabricación de alambre, productos de alambre y resortes",3494.124,5014.65325
 2025-04-01,3326,"Fabricación de alambre, productos de alambre y resortes",3391.2435,4898.902
-2025-07-01,3326,"Fabricación de alambre, productos de alambre y resortes",3039.86675,4272.68525
+2025-07-01,3326,"Fabricación de alambre, productos de alambre y resortes",3045.5095,4278.10225
+2025-10-01,3326,"Fabricación de alambre, productos de alambre y resortes",2961.3145,4156.732
 1993-01-01,3327,Maquinado de piezas y fabricación de tornillos,1131.48675,146.8025
 1993-04-01,3327,Maquinado de piezas y fabricación de tornillos,1217.2245,160.20475
 1993-07-01,3327,Maquinado de piezas y fabricación de tornillos,1398.3055,193.449
@@ -12050,7 +12141,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3327,Maquinado de piezas y fabricación de tornillos,4190.46175,8106.90025
 2025-01-01,3327,Maquinado de piezas y fabricación de tornillos,3853.11475,7724.25575
 2025-04-01,3327,Maquinado de piezas y fabricación de tornillos,4156.8205,8217.34425
-2025-07-01,3327,Maquinado de piezas y fabricación de tornillos,4213.99625,8309.088
+2025-07-01,3327,Maquinado de piezas y fabricación de tornillos,4204.81375,8300.0255
+2025-10-01,3327,Maquinado de piezas y fabricación de tornillos,4263.67275,8275.462
 1993-01-01,3328,Recubrimientos y terminados metálicos,454.374,74.4685
 1993-04-01,3328,Recubrimientos y terminados metálicos,432.36375,71.15175
 1993-07-01,3328,Recubrimientos y terminados metálicos,500.887,82.3515
@@ -12181,7 +12273,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3328,Recubrimientos y terminados metálicos,3979.6415,4566.4895
 2025-01-01,3328,Recubrimientos y terminados metálicos,4009.02325,4681.556
 2025-04-01,3328,Recubrimientos y terminados metálicos,3578.555,4206.3955
-2025-07-01,3328,Recubrimientos y terminados metálicos,3834.99925,4507.51525
+2025-07-01,3328,Recubrimientos y terminados metálicos,3834.8135,4507.31475
+2025-10-01,3328,Recubrimientos y terminados metálicos,3269.478,3790.62575
 1993-01-01,3329,Fabricación de otros productos metálicos,6478.646,567.93275
 1993-04-01,3329,Fabricación de otros productos metálicos,5527.6875,505.23275
 1993-07-01,3329,Fabricación de otros productos metálicos,6584.11025,609.24475
@@ -12312,7 +12405,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3329,Fabricación de otros productos metálicos,9759.71475,13015.1645
 2025-01-01,3329,Fabricación de otros productos metálicos,9887.313,13316.54775
 2025-04-01,3329,Fabricación de otros productos metálicos,10131.09575,13664.42
-2025-07-01,3329,Fabricación de otros productos metálicos,10637.29625,14126.532
+2025-07-01,3329,Fabricación de otros productos metálicos,10647.58,14140.243
+2025-10-01,3329,Fabricación de otros productos metálicos,10006.834,13181.652
 1993-01-01,333,Fabricación de maquinaria y equipo,41311.237,5342.2615
 1993-04-01,333,Fabricación de maquinaria y equipo,42070.41375,5748.72325
 1993-07-01,333,Fabricación de maquinaria y equipo,43830.919,6385.56225
@@ -12443,7 +12537,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,333,Fabricación de maquinaria y equipo,50348.3625,75608.17425
 2025-01-01,333,Fabricación de maquinaria y equipo,53760.20475,82095.0135
 2025-04-01,333,Fabricación de maquinaria y equipo,55268.25975,83961.6125
-2025-07-01,333,Fabricación de maquinaria y equipo,54426.05,80628.1685
+2025-07-01,333,Fabricación de maquinaria y equipo,54427.81225,80604.0645
+2025-10-01,333,Fabricación de maquinaria y equipo,50044.982,73748.487
 1993-01-01,3331,"Fabricación de maquinaria y equipo agropecuario, para la construcción y para la industria extractiva",5085.506,678.8595
 1993-04-01,3331,"Fabricación de maquinaria y equipo agropecuario, para la construcción y para la industria extractiva",3636.1825,497.86075
 1993-07-01,3331,"Fabricación de maquinaria y equipo agropecuario, para la construcción y para la industria extractiva",4534.42725,653.65375
@@ -12574,7 +12669,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3331,"Fabricación de maquinaria y equipo agropecuario, para la construcción y para la industria extractiva",8895.5385,18442.23625
 2025-01-01,3331,"Fabricación de maquinaria y equipo agropecuario, para la construcción y para la industria extractiva",10663.191,20939.141
 2025-04-01,3331,"Fabricación de maquinaria y equipo agropecuario, para la construcción y para la industria extractiva",11031.6315,21356.3535
-2025-07-01,3331,"Fabricación de maquinaria y equipo agropecuario, para la construcción y para la industria extractiva",10101.83975,19462.3435
+2025-07-01,3331,"Fabricación de maquinaria y equipo agropecuario, para la construcción y para la industria extractiva",10033.74425,19363.91275
+2025-10-01,3331,"Fabricación de maquinaria y equipo agropecuario, para la construcción y para la industria extractiva",9016.529,17902.49425
 1993-01-01,3332,"Fabricación de maquinaria y equipo para las industrias manufactureras, excepto la metalmecánica",23816.6945,3519.704
 1993-04-01,3332,"Fabricación de maquinaria y equipo para las industrias manufactureras, excepto la metalmecánica",26928.42375,4106.173
 1993-07-01,3332,"Fabricación de maquinaria y equipo para las industrias manufactureras, excepto la metalmecánica",25214.231,4258.89625
@@ -12705,7 +12801,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3332,"Fabricación de maquinaria y equipo para las industrias manufactureras, excepto la metalmecánica",3269.3075,4622.823
 2025-01-01,3332,"Fabricación de maquinaria y equipo para las industrias manufactureras, excepto la metalmecánica",3476.32575,5115.495
 2025-04-01,3332,"Fabricación de maquinaria y equipo para las industrias manufactureras, excepto la metalmecánica",3073.27725,4460.9175
-2025-07-01,3332,"Fabricación de maquinaria y equipo para las industrias manufactureras, excepto la metalmecánica",3313.10175,4654.387
+2025-07-01,3332,"Fabricación de maquinaria y equipo para las industrias manufactureras, excepto la metalmecánica",3320.0685,4664.212
+2025-10-01,3332,"Fabricación de maquinaria y equipo para las industrias manufactureras, excepto la metalmecánica",3220.1065,4515.34175
 1993-01-01,3333,Fabricación de maquinaria y equipo para el comercio y los servicios,564.4855,66.583
 1993-04-01,3333,Fabricación de maquinaria y equipo para el comercio y los servicios,684.77375,89.965
 1993-07-01,3333,Fabricación de maquinaria y equipo para el comercio y los servicios,976.60975,144.03
@@ -12836,7 +12933,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3333,Fabricación de maquinaria y equipo para el comercio y los servicios,1713.89625,2279.2875
 2025-01-01,3333,Fabricación de maquinaria y equipo para el comercio y los servicios,1857.327,2580.0785
 2025-04-01,3333,Fabricación de maquinaria y equipo para el comercio y los servicios,1916.36325,2608.67675
-2025-07-01,3333,Fabricación de maquinaria y equipo para el comercio y los servicios,1782.56125,2428.567
+2025-07-01,3333,Fabricación de maquinaria y equipo para el comercio y los servicios,1782.69325,2428.8075
+2025-10-01,3333,Fabricación de maquinaria y equipo para el comercio y los servicios,1638.516,2253.55825
 1993-01-01,3334,"Fabricación de equipo de aire acondicionado, calefacción, y de refrigeración industrial y comercial",1950.12375,283.30575
 1993-04-01,3334,"Fabricación de equipo de aire acondicionado, calefacción, y de refrigeración industrial y comercial",2424.29075,355.5215
 1993-07-01,3334,"Fabricación de equipo de aire acondicionado, calefacción, y de refrigeración industrial y comercial",3133.78875,471.68425
@@ -12967,7 +13065,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3334,"Fabricación de equipo de aire acondicionado, calefacción, y de refrigeración industrial y comercial",12398.57425,18859.751
 2025-01-01,3334,"Fabricación de equipo de aire acondicionado, calefacción, y de refrigeración industrial y comercial",12840.89775,19894.49125
 2025-04-01,3334,"Fabricación de equipo de aire acondicionado, calefacción, y de refrigeración industrial y comercial",14445.99975,22300.759
-2025-07-01,3334,"Fabricación de equipo de aire acondicionado, calefacción, y de refrigeración industrial y comercial",14755.9445,22133.5275
+2025-07-01,3334,"Fabricación de equipo de aire acondicionado, calefacción, y de refrigeración industrial y comercial",14755.85625,22133.4325
+2025-10-01,3334,"Fabricación de equipo de aire acondicionado, calefacción, y de refrigeración industrial y comercial",12057.02275,18031.04525
 1993-01-01,3335,Fabricación de maquinaria y equipo para la industria metalmecánica,1275.25275,118.3115
 1993-04-01,3335,Fabricación de maquinaria y equipo para la industria metalmecánica,757.7625,75.3825
 1993-07-01,3335,Fabricación de maquinaria y equipo para la industria metalmecánica,785.09725,84.43825
@@ -13098,7 +13197,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3335,Fabricación de maquinaria y equipo para la industria metalmecánica,636.2045,778.7245
 2025-01-01,3335,Fabricación de maquinaria y equipo para la industria metalmecánica,662.81125,834.87175
 2025-04-01,3335,Fabricación de maquinaria y equipo para la industria metalmecánica,671.44175,837.1805
-2025-07-01,3335,Fabricación de maquinaria y equipo para la industria metalmecánica,704.06525,854.4965
+2025-07-01,3335,Fabricación de maquinaria y equipo para la industria metalmecánica,700.9935,850.82775
+2025-10-01,3335,Fabricación de maquinaria y equipo para la industria metalmecánica,673.50225,812.76225
 1993-01-01,3336,"Fabricación de motores de combustión interna, turbinas y transmisiones",2993.55975,229.082
 1993-04-01,3336,"Fabricación de motores de combustión interna, turbinas y transmisiones",2870.904,218.63475
 1993-07-01,3336,"Fabricación de motores de combustión interna, turbinas y transmisiones",3321.78775,255.91475
@@ -13229,7 +13329,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3336,"Fabricación de motores de combustión interna, turbinas y transmisiones",9835.31975,14919.869
 2025-01-01,3336,"Fabricación de motores de combustión interna, turbinas y transmisiones",11624.09825,17905.965
 2025-04-01,3336,"Fabricación de motores de combustión interna, turbinas y transmisiones",12165.60475,18386.7375
-2025-07-01,3336,"Fabricación de motores de combustión interna, turbinas y transmisiones",11560.2395,16998.91875
+2025-07-01,3336,"Fabricación de motores de combustión interna, turbinas y transmisiones",11560.236,16998.915
+2025-10-01,3336,"Fabricación de motores de combustión interna, turbinas y transmisiones",11153.88175,16047.4645
 1993-01-01,3339,Fabricación de otra maquinaria y equipo para la industria en general,5625.61475,446.41575
 1993-04-01,3339,Fabricación de otra maquinaria y equipo para la industria en general,4768.0765,405.18575
 1993-07-01,3339,Fabricación de otra maquinaria y equipo para la industria en general,5864.97725,516.945
@@ -13360,7 +13461,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3339,Fabricación de otra maquinaria y equipo para la industria en general,13599.52175,15705.483
 2025-01-01,3339,Fabricación de otra maquinaria y equipo para la industria en general,12635.55375,14824.971
 2025-04-01,3339,Fabricación de otra maquinaria y equipo para la industria en general,11963.9415,14010.98775
-2025-07-01,3339,Fabricación de otra maquinaria y equipo para la industria en general,12208.298,14095.92825
+2025-07-01,3339,Fabricación de otra maquinaria y equipo para la industria en general,12274.2205,14163.957
+2025-10-01,3339,Fabricación de otra maquinaria y equipo para la industria en general,12285.42375,14185.82075
 1993-01-01,334,"Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",59798.206,7642.44275
 1993-04-01,334,"Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",67005.049,8693.433
 1993-07-01,334,"Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",78961.20025,10178.3945
@@ -13491,7 +13593,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,334,"Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",118947.564,157197.3195
 2025-01-01,334,"Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",119999.1525,159766.825
 2025-04-01,334,"Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",126416.5635,165777.23425
-2025-07-01,334,"Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",123061.733,163344.79375
+2025-07-01,334,"Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",123061.6925,163344.75025
+2025-10-01,334,"Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",123107.508,159993.994
 1993-01-01,3341,Fabricación de computadoras y equipo periférico,2901.5105,716.0525
 1993-04-01,3341,Fabricación de computadoras y equipo periférico,3373.4085,845.071
 1993-07-01,3341,Fabricación de computadoras y equipo periférico,2706.59875,698.646
@@ -13622,7 +13725,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3341,Fabricación de computadoras y equipo periférico,43940.32075,46274.0695
 2025-01-01,3341,Fabricación de computadoras y equipo periférico,48750.422,53099.64775
 2025-04-01,3341,Fabricación de computadoras y equipo periférico,52459.759,55844.5105
-2025-07-01,3341,Fabricación de computadoras y equipo periférico,41510.21,45274.4425
+2025-07-01,3341,Fabricación de computadoras y equipo periférico,41510.20725,45274.4395
+2025-10-01,3341,Fabricación de computadoras y equipo periférico,41916.42825,44790.98625
 1993-01-01,3342,Fabricación de equipo de comunicación,42362.604,4832.60275
 1993-04-01,3342,Fabricación de equipo de comunicación,47089.00075,5401.0265
 1993-07-01,3342,Fabricación de equipo de comunicación,55126.16925,6387.01825
@@ -13753,7 +13857,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3342,Fabricación de equipo de comunicación,16114.23575,23340.49675
 2025-01-01,3342,Fabricación de equipo de comunicación,15959.89875,24014.38125
 2025-04-01,3342,Fabricación de equipo de comunicación,17197.61025,25605.31925
-2025-07-01,3342,Fabricación de equipo de comunicación,19238.33275,27406.88175
+2025-07-01,3342,Fabricación de equipo de comunicación,19238.3305,27406.87925
+2025-10-01,3342,Fabricación de equipo de comunicación,14940.113,21505.24475
 1993-01-01,3343,Fabricación de equipo de audio y de video,5788.36975,1074.75
 1993-04-01,3343,Fabricación de equipo de audio y de video,5691.34875,1184.80125
 1993-07-01,3343,Fabricación de equipo de audio y de video,5441.60325,1127.60675
@@ -13884,7 +13989,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3343,Fabricación de equipo de audio y de video,18633.3775,32727.29925
 2025-01-01,3343,Fabricación de equipo de audio y de video,17319.8135,29485.453
 2025-04-01,3343,Fabricación de equipo de audio y de video,18266.5275,30714.9655
-2025-07-01,3343,Fabricación de equipo de audio y de video,20459.387,33905.60025
+2025-07-01,3343,Fabricación de equipo de audio y de video,20459.3855,33905.599
+2025-10-01,3343,Fabricación de equipo de audio y de video,19427.145,31968.24
 1993-01-01,3344,Fabricación de componentes electrónicos,6987.4595,813.23025
 1993-04-01,3344,Fabricación de componentes electrónicos,9348.688,1075.66275
 1993-07-01,3344,Fabricación de componentes electrónicos,13569.1345,1642.58325
@@ -14015,7 +14121,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3344,Fabricación de componentes electrónicos,34446.3335,45819.1015
 2025-01-01,3344,Fabricación de componentes electrónicos,32404.09175,44383.18125
 2025-04-01,3344,Fabricación de componentes electrónicos,32168.5835,43672.9365
-2025-07-01,3344,Fabricación de componentes electrónicos,34654.78525,45900.3705
+2025-07-01,3344,Fabricación de componentes electrónicos,34654.764,45900.3475
+2025-10-01,3344,Fabricación de componentes electrónicos,40336.62275,52106.76375
 1993-01-01,3345,"Fabricación de instrumentos de medición, control, navegación, y equipo médico electrónico",1540.6205,113.7795
 1993-04-01,3345,"Fabricación de instrumentos de medición, control, navegación, y equipo médico electrónico",1311.94075,96.62725
 1993-07-01,3345,"Fabricación de instrumentos de medición, control, navegación, y equipo médico electrónico",1745.42725,144.469
@@ -14146,7 +14253,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3345,"Fabricación de instrumentos de medición, control, navegación, y equipo médico electrónico",5022.2895,7932.35075
 2025-01-01,3345,"Fabricación de instrumentos de medición, control, navegación, y equipo médico electrónico",4720.47575,7579.599
 2025-04-01,3345,"Fabricación de instrumentos de medición, control, navegación, y equipo médico electrónico",5525.84375,8826.038
-2025-07-01,3345,"Fabricación de instrumentos de medición, control, navegación, y equipo médico electrónico",6204.574,9519.19825
+2025-07-01,3345,"Fabricación de instrumentos de medición, control, navegación, y equipo médico electrónico",6204.56125,9519.1845
+2025-10-01,3345,"Fabricación de instrumentos de medición, control, navegación, y equipo médico electrónico",5646.1255,8496.44075
 1993-01-01,3346,Fabricación y reproducción de medios magnéticos y ópticos,217.64175,92.02775
 1993-04-01,3346,Fabricación y reproducción de medios magnéticos y ópticos,190.66225,90.24425
 1993-07-01,3346,Fabricación y reproducción de medios magnéticos y ópticos,372.26725,178.07125
@@ -14278,6 +14386,7 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2025-01-01,3346,Fabricación y reproducción de medios magnéticos y ópticos,844.45075,1204.56275
 2025-04-01,3346,Fabricación y reproducción de medios magnéticos y ópticos,798.2395,1113.4645
 2025-07-01,3346,Fabricación y reproducción de medios magnéticos y ópticos,994.444,1338.3005
+2025-10-01,3346,Fabricación y reproducción de medios magnéticos y ópticos,841.0735,1126.3185
 1993-01-01,335,"Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",48201.604,3522.97175
 1993-04-01,335,"Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",33115.096,3077.35675
 1993-07-01,335,"Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",53690.04475,4153.25625
@@ -14408,7 +14517,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,335,"Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",53460.659,71394.30075
 2025-01-01,335,"Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",54018.7145,73036.6
 2025-04-01,335,"Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",53616.04125,72664.74125
-2025-07-01,335,"Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",52948.86225,71642.0305
+2025-07-01,335,"Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",53093.64275,71887.47675
+2025-10-01,335,"Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",53214.62675,71276.58
 1993-01-01,3351,Fabricación de accesorios de iluminación,34279.59025,1452.92475
 1993-04-01,3351,Fabricación de accesorios de iluminación,18988.75575,854.7225
 1993-07-01,3351,Fabricación de accesorios de iluminación,37078.17575,1628.1935
@@ -14539,7 +14649,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3351,Fabricación de accesorios de iluminación,4447.63925,5044.0345
 2025-01-01,3351,Fabricación de accesorios de iluminación,4152.17775,4832.9935
 2025-04-01,3351,Fabricación de accesorios de iluminación,4037.5285,4790.038
-2025-07-01,3351,Fabricación de accesorios de iluminación,4000.72225,4821.206
+2025-07-01,3351,Fabricación de accesorios de iluminación,4000.71625,4821.1995
+2025-10-01,3351,Fabricación de accesorios de iluminación,4710.59725,5269.50025
 1993-01-01,3352,Fabricación de aparatos eléctricos de uso doméstico,2964.15775,569.028
 1993-04-01,3352,Fabricación de aparatos eléctricos de uso doméstico,4100.90125,821.96625
 1993-07-01,3352,Fabricación de aparatos eléctricos de uso doméstico,3948.36225,784.97975
@@ -14670,7 +14781,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3352,Fabricación de aparatos eléctricos de uso doméstico,15291.98375,19894.8745
 2025-01-01,3352,Fabricación de aparatos eléctricos de uso doméstico,15773.298,20639.87525
 2025-04-01,3352,Fabricación de aparatos eléctricos de uso doméstico,15240.4705,19719.928
-2025-07-01,3352,Fabricación de aparatos eléctricos de uso doméstico,14773.36375,18994.99625
+2025-07-01,3352,Fabricación de aparatos eléctricos de uso doméstico,14894.22275,19201.2485
+2025-10-01,3352,Fabricación de aparatos eléctricos de uso doméstico,15291.94875,19570.707
 1993-01-01,3353,Fabricación de equipo de generación y distribución de energía eléctrica,5257.4625,732.42575
 1993-04-01,3353,Fabricación de equipo de generación y distribución de energía eléctrica,3327.979,466.8935
 1993-07-01,3353,Fabricación de equipo de generación y distribución de energía eléctrica,4869.51025,711.882
@@ -14801,7 +14913,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3353,Fabricación de equipo de generación y distribución de energía eléctrica,18964.95225,25877.68775
 2025-01-01,3353,Fabricación de equipo de generación y distribución de energía eléctrica,18343.498,25768.1595
 2025-04-01,3353,Fabricación de equipo de generación y distribución de energía eléctrica,18529.454,25661.694
-2025-07-01,3353,Fabricación de equipo de generación y distribución de energía eléctrica,18213.3525,24921.896
+2025-07-01,3353,Fabricación de equipo de generación y distribución de energía eléctrica,18213.289,24921.8285
+2025-10-01,3353,Fabricación de equipo de generación y distribución de energía eléctrica,18196.45075,24643.2165
 1993-01-01,3359,Fabricación de otros equipos y accesorios eléctricos,5700.3935,768.59325
 1993-04-01,3359,Fabricación de otros equipos y accesorios eléctricos,6697.46,933.7745
 1993-07-01,3359,Fabricación de otros equipos y accesorios eléctricos,7793.9965,1028.201
@@ -14932,7 +15045,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3359,Fabricación de otros equipos y accesorios eléctricos,14756.08375,20577.704
 2025-01-01,3359,Fabricación de otros equipos y accesorios eléctricos,15749.74075,21795.57175
 2025-04-01,3359,Fabricación de otros equipos y accesorios eléctricos,15808.58825,22493.08125
-2025-07-01,3359,Fabricación de otros equipos y accesorios eléctricos,15961.42375,22903.93225
+2025-07-01,3359,Fabricación de otros equipos y accesorios eléctricos,15985.41475,22943.20025
+2025-10-01,3359,Fabricación de otros equipos y accesorios eléctricos,15015.63,21793.15625
 1993-01-01,336,Fabricación de equipo de transporte,75973.70025,8395.66775
 1993-04-01,336,Fabricación de equipo de transporte,72205.76475,8078.70975
 1993-07-01,336,Fabricación de equipo de transporte,62661.54525,7036.88875
@@ -15063,7 +15177,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,336,Fabricación de equipo de transporte,301273.174,387834.72925
 2025-01-01,336,Fabricación de equipo de transporte,298124.196,389803.814
 2025-04-01,336,Fabricación de equipo de transporte,310421.35325,401572.9815
-2025-07-01,336,Fabricación de equipo de transporte,295258.4145,378306.73775
+2025-07-01,336,Fabricación de equipo de transporte,295272.31475,378323.97575
+2025-10-01,336,Fabricación de equipo de transporte,277735.98525,352854.7595
 1993-01-01,3361,Fabricación de automóviles y camiones,32000.18725,4116.86675
 1993-04-01,3361,Fabricación de automóviles y camiones,30021.30675,3932.69675
 1993-07-01,3361,Fabricación de automóviles y camiones,25242.3485,3328.56875
@@ -15194,7 +15309,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3361,Fabricación de automóviles y camiones,154679.10975,198523.33775
 2025-01-01,3361,Fabricación de automóviles y camiones,149417.97725,192094.4595
 2025-04-01,3361,Fabricación de automóviles y camiones,158628.97075,204818.47175
-2025-07-01,3361,Fabricación de automóviles y camiones,143283.76875,186432.28325
+2025-07-01,3361,Fabricación de automóviles y camiones,143283.465,186431.956
+2025-10-01,3361,Fabricación de automóviles y camiones,136124.75025,176293.9645
 1993-01-01,3362,Fabricación de carrocerías y remolques,3757.5885,423.61725
 1993-04-01,3362,Fabricación de carrocerías y remolques,2840.405,314.918
 1993-07-01,3362,Fabricación de carrocerías y remolques,1782.04675,192.9405
@@ -15325,7 +15441,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3362,Fabricación de carrocerías y remolques,5814.62675,6860.4665
 2025-01-01,3362,Fabricación de carrocerías y remolques,5314.463,6285.96125
 2025-04-01,3362,Fabricación de carrocerías y remolques,5538.33675,6559.40475
-2025-07-01,3362,Fabricación de carrocerías y remolques,5617.2595,6643.0475
+2025-07-01,3362,Fabricación de carrocerías y remolques,5617.2355,6643.0225
+2025-10-01,3362,Fabricación de carrocerías y remolques,5047.087,5991.656
 1993-01-01,3363,Fabricación de partes para vehículos automotores,36875.939,3411.989
 1993-04-01,3363,Fabricación de partes para vehículos automotores,35897.32725,3378.13825
 1993-07-01,3363,Fabricación de partes para vehículos automotores,32453.21275,3124.696
@@ -15456,7 +15573,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3363,Fabricación de partes para vehículos automotores,123393.43575,158780.198
 2025-01-01,3363,Fabricación de partes para vehículos automotores,126269.81475,166759.80125
 2025-04-01,3363,Fabricación de partes para vehículos automotores,129517.23825,167464.80125
-2025-07-01,3363,Fabricación de partes para vehículos automotores,128504.55475,161764.2925
+2025-07-01,3363,Fabricación de partes para vehículos automotores,128518.79075,161781.89025
+2025-10-01,3363,Fabricación de partes para vehículos automotores,119049.5085,147953.06425
 1993-01-01,3364,Fabricación de equipo aeroespacial,1343.803,155.82125
 1993-04-01,3364,Fabricación de equipo aeroespacial,1278.339,142.583
 1993-07-01,3364,Fabricación de equipo aeroespacial,1153.43075,120.0265
@@ -15587,7 +15705,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3364,Fabricación de equipo aeroespacial,7480.7895,8624.17325
 2025-01-01,3364,Fabricación de equipo aeroespacial,7245.1085,8788.891
 2025-04-01,3364,Fabricación de equipo aeroespacial,7614.31475,8948.52125
-2025-07-01,3364,Fabricación de equipo aeroespacial,8190.5585,9229.45275
+2025-07-01,3364,Fabricación de equipo aeroespacial,8190.55825,9229.45275
+2025-10-01,3364,Fabricación de equipo aeroespacial,8388.47325,9347.2185
 1993-01-01,3365,Fabricación de equipo ferroviario,824.6245,146.0755
 1993-04-01,3365,Fabricación de equipo ferroviario,787.74025,132.7785
 1993-07-01,3365,Fabricación de equipo ferroviario,647.79125,99.1715
@@ -15718,7 +15837,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3365,Fabricación de equipo ferroviario,4121.8455,7376.3865
 2025-01-01,3365,Fabricación de equipo ferroviario,4180.07425,8336.99375
 2025-04-01,3365,Fabricación de equipo ferroviario,3715.83625,6626.124
-2025-07-01,3365,Fabricación de equipo ferroviario,3610.9775,6377.868
+2025-07-01,3365,Fabricación de equipo ferroviario,3610.97625,6377.867
+2025-10-01,3365,Fabricación de equipo ferroviario,3274.068,5669.162
 1993-01-01,3366,Fabricación de embarcaciones,821.226,75.50725
 1993-04-01,3366,Fabricación de embarcaciones,947.452,88.01475
 1993-07-01,3366,Fabricación de embarcaciones,891.66125,77.6155
@@ -15849,7 +15969,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3366,Fabricación de embarcaciones,759.18125,1207.106
 2025-01-01,3366,Fabricación de embarcaciones,666.328,984.774
 2025-04-01,3366,Fabricación de embarcaciones,766.79475,1135.3285
-2025-07-01,3366,Fabricación de embarcaciones,697.542,1014.606
+2025-07-01,3366,Fabricación de embarcaciones,697.5415,1014.6055
+2025-10-01,3366,Fabricación de embarcaciones,657.38475,964.5275
 1993-01-01,3369,Fabricación de otro equipo de transporte,350.332,65.79075
 1993-04-01,3369,Fabricación de otro equipo de transporte,433.1945,89.5805
 1993-07-01,3369,Fabricación de otro equipo de transporte,491.054,93.87
@@ -15980,7 +16101,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3369,Fabricación de otro equipo de transporte,5024.1855,6463.06125
 2025-01-01,3369,Fabricación de otro equipo de transporte,5030.43025,6552.93325
 2025-04-01,3369,Fabricación de otro equipo de transporte,4639.86175,6020.33
-2025-07-01,3369,Fabricación de otro equipo de transporte,5353.7535,6845.18775
+2025-07-01,3369,Fabricación de otro equipo de transporte,5353.7475,6845.18175
+2025-10-01,3369,Fabricación de otro equipo de transporte,5194.7135,6635.16675
 1993-01-01,337,"Fabricación de muebles, colchones y persianas",13137.6215,2083.2165
 1993-04-01,337,"Fabricación de muebles, colchones y persianas",11838.482,1879.9175
 1993-07-01,337,"Fabricación de muebles, colchones y persianas",12865.82325,2074.852
@@ -16111,7 +16233,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,337,"Fabricación de muebles, colchones y persianas",13090.529,19217.34525
 2025-01-01,337,"Fabricación de muebles, colchones y persianas",11714.962,17727.4985
 2025-04-01,337,"Fabricación de muebles, colchones y persianas",11612.9505,17705.292
-2025-07-01,337,"Fabricación de muebles, colchones y persianas",11687.176,17860.3175
+2025-07-01,337,"Fabricación de muebles, colchones y persianas",11716.408,17907.7185
+2025-10-01,337,"Fabricación de muebles, colchones y persianas",12299.6685,18811.4125
 1993-01-01,3371,"Fabricación de muebles, excepto de oficina y estantería",11363.18125,1802.25675
 1993-04-01,3371,"Fabricación de muebles, excepto de oficina y estantería",10201.49375,1614.39775
 1993-07-01,3371,"Fabricación de muebles, excepto de oficina y estantería",11095.6185,1784.17175
@@ -16242,7 +16365,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3371,"Fabricación de muebles, excepto de oficina y estantería",8447.47425,11584.77225
 2025-01-01,3371,"Fabricación de muebles, excepto de oficina y estantería",7111.326,9909.26825
 2025-04-01,3371,"Fabricación de muebles, excepto de oficina y estantería",7036.46875,9926.23975
-2025-07-01,3371,"Fabricación de muebles, excepto de oficina y estantería",7161.296,10186.92625
+2025-07-01,3371,"Fabricación de muebles, excepto de oficina y estantería",7190.562,10234.3635
+2025-10-01,3371,"Fabricación de muebles, excepto de oficina y estantería",7726.375,11054.503
 1993-01-01,3372,Fabricación de muebles de oficina y estantería,1260.34825,216.26675
 1993-04-01,3372,Fabricación de muebles de oficina y estantería,1175.73475,206.55375
 1993-07-01,3372,Fabricación de muebles de oficina y estantería,1240.72525,220.86575
@@ -16373,7 +16497,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3372,Fabricación de muebles de oficina y estantería,2627.45,4322.0815
 2025-01-01,3372,Fabricación de muebles de oficina y estantería,2595.61775,4397.42775
 2025-04-01,3372,Fabricación de muebles de oficina y estantería,2487.90675,4188.97575
-2025-07-01,3372,Fabricación de muebles de oficina y estantería,2453.883,4097.91975
+2025-07-01,3372,Fabricación de muebles de oficina y estantería,2453.85875,4097.89375
+2025-10-01,3372,Fabricación de muebles de oficina y estantería,2428.2745,4058.485
 1993-01-01,3379,"Fabricación de colchones, persianas y cortineros",514.092,64.693
 1993-04-01,3379,"Fabricación de colchones, persianas y cortineros",461.2535,58.966
 1993-07-01,3379,"Fabricación de colchones, persianas y cortineros",529.4795,69.8145
@@ -16504,7 +16629,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3379,"Fabricación de colchones, persianas y cortineros",2015.60475,3310.4915
 2025-01-01,3379,"Fabricación de colchones, persianas y cortineros",2008.01825,3420.8025
 2025-04-01,3379,"Fabricación de colchones, persianas y cortineros",2088.575,3590.0765
-2025-07-01,3379,"Fabricación de colchones, persianas y cortineros",2071.997,3575.4715
+2025-07-01,3379,"Fabricación de colchones, persianas y cortineros",2071.98725,3575.46125
+2025-10-01,3379,"Fabricación de colchones, persianas y cortineros",2145.019,3698.4245
 1993-01-01,339,Otras industrias manufactureras,11072.692,1609.984
 1993-04-01,339,Otras industrias manufactureras,11925.45375,1960.32175
 1993-07-01,339,Otras industrias manufactureras,12623.065,2085.05675
@@ -16635,7 +16761,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,339,Otras industrias manufactureras,45227.66375,67452.884
 2025-01-01,339,Otras industrias manufactureras,46794.17075,71072.546
 2025-04-01,339,Otras industrias manufactureras,46554.61675,70452.128
-2025-07-01,339,Otras industrias manufactureras,43870.4285,66559.53925
+2025-07-01,339,Otras industrias manufactureras,44109.95925,66948.99825
+2025-10-01,339,Otras industrias manufactureras,45482.64,68708.67675
 1993-01-01,3391,"Fabricación de equipo no electrónico y material desechable de uso médico, dental y para laboratorio, y artículos oftálmicos",4018.11675,780.46625
 1993-04-01,3391,"Fabricación de equipo no electrónico y material desechable de uso médico, dental y para laboratorio, y artículos oftálmicos",4877.5185,1133.9775
 1993-07-01,3391,"Fabricación de equipo no electrónico y material desechable de uso médico, dental y para laboratorio, y artículos oftálmicos",5306.795,1204.912
@@ -16766,7 +16893,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3391,"Fabricación de equipo no electrónico y material desechable de uso médico, dental y para laboratorio, y artículos oftálmicos",28492.4195,42963.38375
 2025-01-01,3391,"Fabricación de equipo no electrónico y material desechable de uso médico, dental y para laboratorio, y artículos oftálmicos",31871.49075,48982.71975
 2025-04-01,3391,"Fabricación de equipo no electrónico y material desechable de uso médico, dental y para laboratorio, y artículos oftálmicos",30817.507,47308.435
-2025-07-01,3391,"Fabricación de equipo no electrónico y material desechable de uso médico, dental y para laboratorio, y artículos oftálmicos",27343.1575,42133.93225
+2025-07-01,3391,"Fabricación de equipo no electrónico y material desechable de uso médico, dental y para laboratorio, y artículos oftálmicos",27544.96,42456.2585
+2025-10-01,3391,"Fabricación de equipo no electrónico y material desechable de uso médico, dental y para laboratorio, y artículos oftálmicos",30085.79775,45862.95
 1993-01-01,3399,Otras industrias manufactureras,7054.57525,829.51775
 1993-04-01,3399,Otras industrias manufactureras,7047.93525,826.34425
 1993-07-01,3399,Otras industrias manufactureras,7316.27,880.14475
@@ -16897,7 +17025,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,3399,Otras industrias manufactureras,16735.24425,24489.50025
 2025-01-01,3399,Otras industrias manufactureras,14922.68,22089.82625
 2025-04-01,3399,Otras industrias manufactureras,15737.10975,23143.693
-2025-07-01,3399,Otras industrias manufactureras,16527.271,24425.607
+2025-07-01,3399,Otras industrias manufactureras,16564.99925,24492.73975
+2025-10-01,3399,Otras industrias manufactureras,15396.84225,22845.72675
 1993-01-01,4,Actividades terciarias,1850297.47525,229291.1955
 1993-04-01,4,Actividades terciarias,1910924.0285,241390.7175
 1993-07-01,4,Actividades terciarias,1876885.147,242277.7905
@@ -17026,9 +17155,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,4,Actividades terciarias,3814902.999,4896988.2765
 2024-07-01,4,Actividades terciarias,3807321.30575,4952682.38975
 2024-10-01,4,Actividades terciarias,3878917.77725,5101877.3715
-2025-01-01,4,Actividades terciarias,3736989.808,4974047.859
-2025-04-01,4,Actividades terciarias,3839196.72125,5164485.5205
-2025-07-01,4,Actividades terciarias,3847892.59675,5207361.46575
+2025-01-01,4,Actividades terciarias,3737207.52925,4974314.5035
+2025-04-01,4,Actividades terciarias,3839766.90925,5165191.525
+2025-07-01,4,Actividades terciarias,3852221.7,5213199.79925
+2025-10-01,4,Actividades terciarias,3962883.972,5412815.20275
 1993-01-01,43,Comercio al por mayor,236375.65675,29821.55225
 1993-04-01,43,Comercio al por mayor,246716.9235,31538.56875
 1993-07-01,43,Comercio al por mayor,242574.4205,31194.18875
@@ -17157,9 +17287,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,43,Comercio al por mayor,612558.665,757387.755
 2024-07-01,43,Comercio al por mayor,618658.657,776028.32775
 2024-10-01,43,Comercio al por mayor,622453.09075,789153.45325
-2025-01-01,43,Comercio al por mayor,574453.9155,733121.498
-2025-04-01,43,Comercio al por mayor,563118.49575,725201.008
-2025-07-01,43,Comercio al por mayor,592614.5375,768220.94025
+2025-01-01,43,Comercio al por mayor,574458.868,733127.81675
+2025-04-01,43,Comercio al por mayor,563095.2645,725170.98575
+2025-07-01,43,Comercio al por mayor,595179.41725,771551.41975
+2025-10-01,43,Comercio al por mayor,617658.2525,809071.693
 1993-01-01,46,Comercio al por menor,295177.464,36062.6845
 1993-04-01,46,Comercio al por menor,285911.269,35348.0285
 1993-07-01,46,Comercio al por menor,284093.6915,35257.21475
@@ -17288,9 +17419,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,46,Comercio al por menor,646606.973,806215.2475
 2024-07-01,46,Comercio al por menor,634112.893,799751.228
 2024-10-01,46,Comercio al por menor,662766.66025,840566.23575
-2025-01-01,46,Comercio al por menor,631246.95625,810868.9475
-2025-04-01,46,Comercio al por menor,670853.59575,873740.7785
-2025-07-01,46,Comercio al por menor,662049.0685,866113.66025
+2025-01-01,46,Comercio al por menor,631249.3405,810871.6075
+2025-04-01,46,Comercio al por menor,670841.78575,873727.43175
+2025-07-01,46,Comercio al por menor,661097.84875,865034.2975
+2025-10-01,46,Comercio al por menor,692998.1795,908553.48325
 1993-01-01,48-49,"Transportes, correos y almacenamiento",189928.571,21587.68975
 1993-04-01,48-49,"Transportes, correos y almacenamiento",193811.42,22129.14
 1993-07-01,48-49,"Transportes, correos y almacenamiento",198689.4255,22783.7305
@@ -17419,9 +17551,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,48-49,"Transportes, correos y almacenamiento",487039.8465,647578.1375
 2024-07-01,48-49,"Transportes, correos y almacenamiento",473053.584,644927.3575
 2024-10-01,48-49,"Transportes, correos y almacenamiento",473156.39425,661507.3565
-2025-01-01,48-49,"Transportes, correos y almacenamiento",460257.4135,640403.984
-2025-04-01,48-49,"Transportes, correos y almacenamiento",491121.96225,693028.6885
-2025-07-01,48-49,"Transportes, correos y almacenamiento",474018.51825,676061.81275
+2025-01-01,48-49,"Transportes, correos y almacenamiento",460261.82975,640408.90825
+2025-04-01,48-49,"Transportes, correos y almacenamiento",491131.39875,693040.349
+2025-07-01,48-49,"Transportes, correos y almacenamiento",474838.9855,677301.53525
+2025-10-01,48-49,"Transportes, correos y almacenamiento",477890.26975,695269.076
 1993-01-01,481,Transporte aéreo,5342.455,414.0715
 1993-04-01,481,Transporte aéreo,4510.73175,350.78525
 1993-07-01,481,Transporte aéreo,5764.65775,442.681
@@ -17550,9 +17683,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,481,Transporte aéreo,20023.438,31621.39175
 2024-07-01,481,Transporte aéreo,21175.89525,35367.97
 2024-10-01,481,Transporte aéreo,21604.53125,42850.75225
-2025-01-01,481,Transporte aéreo,20214.117,31093.263
-2025-04-01,481,Transporte aéreo,21113.165,33598.75375
-2025-07-01,481,Transporte aéreo,21517.5715,36791.36525
+2025-01-01,481,Transporte aéreo,20218.09,31097.78775
+2025-04-01,481,Transporte aéreo,21116.812,33603.06125
+2025-07-01,481,Transporte aéreo,21521.663,36796.54525
+2025-10-01,481,Transporte aéreo,22038.47225,45862.587
 1993-01-01,482,Transporte por ferrocarril,3067.35625,527.475
 1993-04-01,482,Transporte por ferrocarril,3630.3135,616.5105
 1993-07-01,482,Transporte por ferrocarril,3714.73875,605.65275
@@ -17683,7 +17817,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,482,Transporte por ferrocarril,11043.324,13679.9485
 2025-01-01,482,Transporte por ferrocarril,11097.527,13594.39425
 2025-04-01,482,Transporte por ferrocarril,11672.12425,14405.552
-2025-07-01,482,Transporte por ferrocarril,11538.88575,14279.9725
+2025-07-01,482,Transporte por ferrocarril,11538.783,14279.86175
+2025-10-01,482,Transporte por ferrocarril,10978.73575,13618.81775
 1993-01-01,483,Transporte por agua,3834.5545,430.18675
 1993-04-01,483,Transporte por agua,3564.2005,399.83025
 1993-07-01,483,Transporte por agua,4412.27775,491.0645
@@ -17814,7 +17949,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,483,Transporte por agua,4195.54775,5190.534
 2025-01-01,483,Transporte por agua,3882.90625,4929.6855
 2025-04-01,483,Transporte por agua,4071.77075,5122.6925
-2025-07-01,483,Transporte por agua,4111.03575,5086.193
+2025-07-01,483,Transporte por agua,4111.02775,5086.1845
+2025-10-01,483,Transporte por agua,3764.17125,4640.3815
 1993-01-01,484,Autotransporte de carga,77678.96,10069.93475
 1993-04-01,484,Autotransporte de carga,77267.1305,10096.939
 1993-07-01,484,Autotransporte de carga,77585.80375,10151.00625
@@ -17943,9 +18079,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,484,Autotransporte de carga,243405.61525,322780.55775
 2024-07-01,484,Autotransporte de carga,243001.84325,328234.7945
 2024-10-01,484,Autotransporte de carga,239086.58925,327345.64525
-2025-01-01,484,Autotransporte de carga,232357.2655,323526.30375
-2025-04-01,484,Autotransporte de carga,240898.0175,338726.60325
-2025-07-01,484,Autotransporte de carga,241421.95325,342329.83775
+2025-01-01,484,Autotransporte de carga,232358.826,323528.476
+2025-04-01,484,Autotransporte de carga,240908.15425,338740.8945
+2025-07-01,484,Autotransporte de carga,241467.34975,342394.27625
+2025-10-01,484,Autotransporte de carga,242377.7655,345896.08675
 1993-01-01,485,"Transporte terrestre de pasajeros, excepto por ferrocarril",70557.9735,7128.8815
 1993-04-01,485,"Transporte terrestre de pasajeros, excepto por ferrocarril",75825.8475,7770.5825
 1993-07-01,485,"Transporte terrestre de pasajeros, excepto por ferrocarril",74662.1965,7787.38825
@@ -18076,7 +18213,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,485,"Transporte terrestre de pasajeros, excepto por ferrocarril",120192.20825,154962.33975
 2025-01-01,485,"Transporte terrestre de pasajeros, excepto por ferrocarril",120699.3675,158246.67475
 2025-04-01,485,"Transporte terrestre de pasajeros, excepto por ferrocarril",134143.41425,176969.89925
-2025-07-01,485,"Transporte terrestre de pasajeros, excepto por ferrocarril",121065.96625,161268.06
+2025-07-01,485,"Transporte terrestre de pasajeros, excepto por ferrocarril",121053.22875,161252.44575
+2025-10-01,485,"Transporte terrestre de pasajeros, excepto por ferrocarril",121925.09625,165308.8645
 1993-01-01,486,Transporte por ductos,4966.04025,277.63525
 1993-04-01,486,Transporte por ductos,5108.051,288.1315
 1993-07-01,486,Transporte por ductos,5301.759,295.03875
@@ -18205,9 +18343,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,486,Transporte por ductos,4168.73075,6155.5735
 2024-07-01,486,Transporte por ductos,3610.62375,5432.379
 2024-10-01,486,Transporte por ductos,3136.875,4844.32475
-2025-01-01,486,Transporte por ductos,3733.286,5759.66425
-2025-04-01,486,Transporte por ductos,4274.836,6671.88775
-2025-07-01,486,Transporte por ductos,3548.3425,5593.568
+2025-01-01,486,Transporte por ductos,3732.13625,5757.847
+2025-04-01,486,Transporte por ductos,4270.392,6664.8175
+2025-07-01,486,Transporte por ductos,3590.17475,5660.042
+2025-10-01,486,Transporte por ductos,3406.612,5518.91675
 1993-01-01,487,Transporte turístico,514.3645,77.98975
 1993-04-01,487,Transporte turístico,456.0615,72.90825
 1993-07-01,487,Transporte turístico,463.735,74.019
@@ -18338,7 +18477,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,487,Transporte turístico,549.30225,752.33275
 2025-01-01,487,Transporte turístico,564.417,818.89425
 2025-04-01,487,Transporte turístico,550.44625,807.63325
-2025-07-01,487,Transporte turístico,559.9485,827.123
+2025-07-01,487,Transporte turístico,559.94425,827.11825
+2025-10-01,487,Transporte turístico,567.658,843.90625
 1993-01-01,488,Servicios relacionados con el transporte,16072.84625,1856.63325
 1993-04-01,488,Servicios relacionados con el transporte,16882.67825,1925.27375
 1993-07-01,488,Servicios relacionados con el transporte,17920.46025,2022.409
@@ -18467,9 +18607,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,488,Servicios relacionados con el transporte,54287.71975,80221.03875
 2024-07-01,488,Servicios relacionados con el transporte,51223.26125,78577.20925
 2024-10-01,488,Servicios relacionados con el transporte,55731.54625,87380.261
-2025-01-01,488,Servicios relacionados con el transporte,48804.99625,75456.9195
-2025-04-01,488,Servicios relacionados con el transporte,55090.516,89017.41825
-2025-07-01,488,Servicios relacionados con el transporte,50559.39325,81530.82475
+2025-01-01,488,Servicios relacionados con el transporte,48805.02875,75456.964
+2025-04-01,488,Servicios relacionados con el transporte,55090.61275,89017.55025
+2025-07-01,488,Servicios relacionados con el transporte,50626.97,81692.15375
+2025-10-01,488,Servicios relacionados con el transporte,52356.8045,83876.51425
 1993-01-01,491,Servicios postales,783.5325,180.65
 1993-04-01,491,Servicios postales,822.4215,196.37925
 1993-07-01,491,Servicios postales,829.96,191.689
@@ -18601,6 +18742,7 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2025-01-01,491,Servicios postales,1109.2055,1075.41425
 2025-04-01,491,Servicios postales,1412.9825,1385.74675
 2025-07-01,491,Servicios postales,1607.043,1591.80275
+2025-10-01,491,Servicios postales,1399.9935,1427.345
 1993-01-01,492,Servicios de mensajería y paquetería,3987.67375,174.762
 1993-04-01,492,Servicios de mensajería y paquetería,4143.09775,177.585
 1993-07-01,492,Servicios de mensajería y paquetería,4292.13225,175.46275
@@ -18731,7 +18873,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,492,Servicios de mensajería y paquetería,8284.07175,12129.899
 2025-01-01,492,Servicios de mensajería y paquetería,7818.1685,11895.13975
 2025-04-01,492,Servicios de mensajería y paquetería,7520.91775,11634.03925
-2025-07-01,492,Servicios de mensajería y paquetería,8304.46575,12852.97925
+2025-07-01,492,Servicios de mensajería y paquetería,8304.46325,12852.9765
+2025-10-01,492,Servicios de mensajería y paquetería,8325.9765,12883.391
 1993-01-01,493,Servicios de almacenamiento,3122.8145,449.47
 1993-04-01,493,Servicios de almacenamiento,1600.88625,234.21475
 1993-07-01,493,Servicios de almacenamiento,3741.7045,547.31925
@@ -18862,7 +19005,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,493,Servicios de almacenamiento,7899.75575,10989.52675
 2025-01-01,493,Servicios de almacenamiento,9976.157,14007.63075
 2025-04-01,493,Servicios de almacenamiento,10373.772,14688.4625
-2025-07-01,493,Servicios de almacenamiento,9783.91275,13910.0865
+2025-07-01,493,Servicios de almacenamiento,10458.338,14868.1285
+2025-10-01,493,Servicios de almacenamiento,10748.98425,15392.26525
 1993-01-01,51,Información en medios masivos,16950.158,5405.14475
 1993-04-01,51,Información en medios masivos,18143.66525,5804.00775
 1993-07-01,51,Información en medios masivos,20776.27425,6479.0435
@@ -18993,7 +19137,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,51,Información en medios masivos,120267.7075,120704.436
 2025-01-01,51,Información en medios masivos,115754.5935,115137.82925
 2025-04-01,51,Información en medios masivos,122944.8225,124799.9965
-2025-07-01,51,Información en medios masivos,118141.2885,119383.276
+2025-07-01,51,Información en medios masivos,118016.21425,119247.97225
+2025-10-01,51,Información en medios masivos,121566.858,121786.23475
 1993-01-01,511,"Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión",3416.49775,524.29475
 1993-04-01,511,"Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión",3746.06075,604.771
 1993-07-01,511,"Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión",5948.31925,1024.499
@@ -19124,7 +19269,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,511,"Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión",3466.46925,3901.9185
 2025-01-01,511,"Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión",2511.12425,2875.79025
 2025-04-01,511,"Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión",2843.1785,3288.7695
-2025-07-01,511,"Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión",3495.92125,4063.705
+2025-07-01,511,"Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión",3485.356,4051.254
+2025-10-01,511,"Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión",3352.74325,3891.27125
 1993-01-01,512,"Industria fílmica y del video, e industria del sonido",3018.97775,387.4125
 1993-04-01,512,"Industria fílmica y del video, e industria del sonido",3767.938,554.44225
 1993-07-01,512,"Industria fílmica y del video, e industria del sonido",2411.6845,381.498
@@ -19255,7 +19401,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,512,"Industria fílmica y del video, e industria del sonido",6489.5,8792.7705
 2025-01-01,512,"Industria fílmica y del video, e industria del sonido",4912.227,6500.802
 2025-04-01,512,"Industria fílmica y del video, e industria del sonido",8155.03675,11275.77975
-2025-07-01,512,"Industria fílmica y del video, e industria del sonido",6863.387,9620.43025
+2025-07-01,512,"Industria fílmica y del video, e industria del sonido",6863.37325,9620.4155
+2025-10-01,512,"Industria fílmica y del video, e industria del sonido",5443.0015,7648.89025
 1993-01-01,515,Radio y televisión,5039.859,208.6405
 1993-04-01,515,Radio y televisión,5458.56125,283.2885
 1993-07-01,515,Radio y televisión,7124.498,394.85025
@@ -19386,7 +19533,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,515,Radio y televisión,16538.411,21078.24
 2025-01-01,515,Radio y televisión,12430.9075,16372.9065
 2025-04-01,515,Radio y televisión,14029.64975,18782.9395
-2025-07-01,515,Radio y televisión,13326.553,17733.55175
+2025-07-01,515,Radio y televisión,13326.5025,17733.49925
+2025-10-01,515,Radio y televisión,13616.059,18059.159
 1993-01-01,517,Telecomunicaciones,3615.15325,4131.79075
 1993-04-01,517,Telecomunicaciones,3560.08725,4221.2155
 1993-07-01,517,Telecomunicaciones,3659.19225,4524.632
@@ -19517,7 +19665,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,517,Telecomunicaciones,90392.25325,83300.30025
 2025-01-01,517,Telecomunicaciones,92811.85,86005.11225
 2025-04-01,517,Telecomunicaciones,94945.32775,88185.29025
-2025-07-01,517,Telecomunicaciones,91420.68375,84609.0195
+2025-07-01,517,Telecomunicaciones,91381.50625,84568.28225
+2025-10-01,517,Telecomunicaciones,95966.3,88673.89175
 1993-01-01,518,"Procesamiento electrónico de información, hospedaje y otros servicios relacionados",1438.4285,113.983
 1993-04-01,518,"Procesamiento electrónico de información, hospedaje y otros servicios relacionados",1138.9205,95.599
 1993-07-01,518,"Procesamiento electrónico de información, hospedaje y otros servicios relacionados",1120.75325,101.51425
@@ -19648,7 +19797,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,518,"Procesamiento electrónico de información, hospedaje y otros servicios relacionados",3014.077,3247.006
 2025-01-01,518,"Procesamiento electrónico de información, hospedaje y otros servicios relacionados",2751.6655,3023.23075
 2025-04-01,518,"Procesamiento electrónico de información, hospedaje y otros servicios relacionados",2648.07275,2919.7885
-2025-07-01,518,"Procesamiento electrónico de información, hospedaje y otros servicios relacionados",2682.66975,2980.6345
+2025-07-01,518,"Procesamiento electrónico de información, hospedaje y otros servicios relacionados",2615.7235,2906.39325
+2025-10-01,518,"Procesamiento electrónico de información, hospedaje y otros servicios relacionados",2808.85975,3104.03475
 1993-01-01,519,Otros servicios de información,421.24175,39.02325
 1993-04-01,519,Otros servicios de información,472.0975,44.6915
 1993-07-01,519,Otros servicios de información,511.827,52.05
@@ -19779,7 +19929,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,519,Otros servicios de información,366.997,384.20075
 2025-01-01,519,Otros servicios de información,336.81925,359.9875
 2025-04-01,519,Otros servicios de información,323.557,347.429
-2025-07-01,519,Otros servicios de información,352.07375,375.935
+2025-07-01,519,Otros servicios de información,343.75275,368.128
+2025-10-01,519,Otros servicios de información,379.8945,408.98775
 1993-01-01,52,Servicios financieros y de seguros,37131.1095,15499.26325
 1993-04-01,52,Servicios financieros y de seguros,42729.74875,16595.0805
 1993-07-01,52,Servicios financieros y de seguros,36701.98275,16070.14925
@@ -19908,9 +20059,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,52,Servicios financieros y de seguros,260691.143,372940.61525
 2024-07-01,52,Servicios financieros y de seguros,254334.2175,365185.35875
 2024-10-01,52,Servicios financieros y de seguros,244080.21425,351100.807
-2025-01-01,52,Servicios financieros y de seguros,256456.014,378028.8255
-2025-04-01,52,Servicios financieros y de seguros,266744.1295,396208.64675
-2025-07-01,52,Servicios financieros y de seguros,259208.58975,386203.66075
+2025-01-01,52,Servicios financieros y de seguros,256456.012,378028.82325
+2025-04-01,52,Servicios financieros y de seguros,266744.12875,396208.646
+2025-07-01,52,Servicios financieros y de seguros,259225.9175,386205.964
+2025-10-01,52,Servicios financieros y de seguros,253035.35725,379840.3715
 1993-01-01,521,Banca central,1170.65175,419.75775
 1993-04-01,521,Banca central,1171.148,426.77725
 1993-07-01,521,Banca central,1215.8205,448.648
@@ -20039,9 +20191,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,521,Banca central,13448.413,14715.928
 2024-07-01,521,Banca central,13455.97025,14871.14025
 2024-10-01,521,Banca central,13499.7875,15049.03425
-2025-01-01,521,Banca central,13930.76775,15732.6955
-2025-04-01,521,Banca central,14033.60575,15993.82325
-2025-07-01,521,Banca central,14155.13525,16240.00325
+2025-01-01,521,Banca central,13930.76575,15732.69325
+2025-04-01,521,Banca central,14033.605,15993.8225
+2025-07-01,521,Banca central,14158.15,16243.4665
+2025-10-01,521,Banca central,14206.0115,16474.1185
 1993-01-01,522,Instituciones de intermediación crediticia y financiera no bursátil,21299.275,12602.68125
 1993-04-01,522,Instituciones de intermediación crediticia y financiera no bursátil,28196.49025,13889.41525
 1993-07-01,522,Instituciones de intermediación crediticia y financiera no bursátil,23020.49625,13472.903
@@ -20172,7 +20325,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,522,Instituciones de intermediación crediticia y financiera no bursátil,189414.1725,284633.73075
 2025-01-01,522,Instituciones de intermediación crediticia y financiera no bursátil,195701.43575,302292.10975
 2025-04-01,522,Instituciones de intermediación crediticia y financiera no bursátil,208611.023,323549.44225
-2025-07-01,522,Instituciones de intermediación crediticia y financiera no bursátil,199592.6125,311233.8965
+2025-07-01,522,Instituciones de intermediación crediticia y financiera no bursátil,199592.501,311234.1025
+2025-10-01,522,Instituciones de intermediación crediticia y financiera no bursátil,193561.72375,304278.01175
 1993-01-01,523,"Actividades bursátiles, cambiarias y de inversión financiera",4537.156,760.674
 1993-04-01,523,"Actividades bursátiles, cambiarias y de inversión financiera",3851.648,637.2955
 1993-07-01,523,"Actividades bursátiles, cambiarias y de inversión financiera",3623.3945,597.99975
@@ -20303,7 +20457,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,523,"Actividades bursátiles, cambiarias y de inversión financiera",7649.75675,9219.9525
 2025-01-01,523,"Actividades bursátiles, cambiarias y de inversión financiera",8144.996,9733.33275
 2025-04-01,523,"Actividades bursátiles, cambiarias y de inversión financiera",7061.253,8566.034
-2025-07-01,523,"Actividades bursátiles, cambiarias y de inversión financiera",7271.73225,8903.748
+2025-07-01,523,"Actividades bursátiles, cambiarias y de inversión financiera",7287.0905,8911.7595
+2025-10-01,523,"Actividades bursátiles, cambiarias y de inversión financiera",5619.3115,6776.36475
 1993-01-01,524,"Compañías de seguros, fianzas, y administración de fondos para el retiro",10124.02675,1716.15025
 1993-04-01,524,"Compañías de seguros, fianzas, y administración de fondos para el retiro",9510.4625,1641.5925
 1993-07-01,524,"Compañías de seguros, fianzas, y administración de fondos para el retiro",8842.2715,1550.5985
@@ -20434,7 +20589,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,524,"Compañías de seguros, fianzas, y administración de fondos para el retiro",33516.4975,42198.0895
 2025-01-01,524,"Compañías de seguros, fianzas, y administración de fondos para el retiro",38678.8145,50270.6875
 2025-04-01,524,"Compañías de seguros, fianzas, y administración de fondos para el retiro",37038.24775,48099.34725
-2025-07-01,524,"Compañías de seguros, fianzas, y administración de fondos para el retiro",38189.10975,49826.013
+2025-07-01,524,"Compañías de seguros, fianzas, y administración de fondos para el retiro",38188.176,49816.6355
+2025-10-01,524,"Compañías de seguros, fianzas, y administración de fondos para el retiro",39648.3105,52311.8765
 1993-01-01,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,259666.86225,44012.2485
 1993-04-01,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,274202.2655,47355.58025
 1993-07-01,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,267174.8975,47113.9135
@@ -20563,9 +20719,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,590794.60975,703608.64325
 2024-07-01,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,602198.88825,722320.13475
 2024-10-01,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,608028.57425,734280.7945
-2025-01-01,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,603918.33725,737715.31725
-2025-04-01,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,600081.49125,740112.224
-2025-07-01,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,610027.26875,756329.6065
+2025-01-01,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,604125.39925,737969.6155
+2025-04-01,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,600677.236,740849.966
+2025-07-01,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,611701.4765,758288.23525
+2025-10-01,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,618775.48425,772025.7695
 1993-01-01,531,Servicios inmobiliarios,253574.61175,43310.7955
 1993-04-01,531,Servicios inmobiliarios,269598.84325,46782.265
 1993-07-01,531,Servicios inmobiliarios,259796.44425,46246.51325
@@ -20694,9 +20851,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,531,Servicios inmobiliarios,573897.3335,685661.1175
 2024-07-01,531,Servicios inmobiliarios,578577.90875,697443.351
 2024-10-01,531,Servicios inmobiliarios,585343.02625,710366.657
-2025-01-01,531,Servicios inmobiliarios,582790.71525,715035.87975
-2025-04-01,531,Servicios inmobiliarios,584332.51425,723002.4575
-2025-07-01,531,Servicios inmobiliarios,586447.1415,730995.78625
+2025-01-01,531,Servicios inmobiliarios,582997.77725,715290.178
+2025-04-01,531,Servicios inmobiliarios,584928.259,723740.1995
+2025-07-01,531,Servicios inmobiliarios,587466.57,732267.81
+2025-10-01,531,Servicios inmobiliarios,595597.41725,746783.20675
 1993-01-01,532,Servicios de alquiler de bienes muebles,4763.94425,516.6075
 1993-04-01,532,Servicios de alquiler de bienes muebles,2612.11675,294.156
 1993-07-01,532,Servicios de alquiler de bienes muebles,5789.023,639.0575
@@ -20827,7 +20985,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,532,Servicios de alquiler de bienes muebles,7279.62325,8255.79875
 2025-01-01,532,Servicios de alquiler de bienes muebles,7105.6925,8205.212
 2025-04-01,532,Servicios de alquiler de bienes muebles,6859.26275,7851.20525
-2025-07-01,532,Servicios de alquiler de bienes muebles,6567.9465,7494.7055
+2025-07-01,532,Servicios de alquiler de bienes muebles,6567.90075,7494.6555
+2025-10-01,532,Servicios de alquiler de bienes muebles,6812.97575,7978.70775
 1993-01-01,533,"Servicios de alquiler de marcas registradas, patentes y franquicias",1328.30625,184.8455
 1993-04-01,533,"Servicios de alquiler de marcas registradas, patentes y franquicias",1991.3055,279.15925
 1993-07-01,533,"Servicios de alquiler de marcas registradas, patentes y franquicias",1589.43025,228.34275
@@ -20958,7 +21117,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,533,"Servicios de alquiler de marcas registradas, patentes y franquicias",15405.92475,15658.33875
 2025-01-01,533,"Servicios de alquiler de marcas registradas, patentes y franquicias",14021.9295,14474.2255
 2025-04-01,533,"Servicios de alquiler de marcas registradas, patentes y franquicias",8889.71425,9258.56125
-2025-07-01,533,"Servicios de alquiler de marcas registradas, patentes y franquicias",17012.18075,17839.11475
+2025-07-01,533,"Servicios de alquiler de marcas registradas, patentes y franquicias",17667.00575,18525.76975
+2025-10-01,533,"Servicios de alquiler de marcas registradas, patentes y franquicias",16365.09125,17263.855
 1993-01-01,54,"Servicios profesionales, científicos y técnicos",60363.5695,4473.54675
 1993-04-01,54,"Servicios profesionales, científicos y técnicos",69387.67525,5244.478
 1993-07-01,54,"Servicios profesionales, científicos y técnicos",62617.36,5192.205
@@ -21087,9 +21247,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,54,"Servicios profesionales, científicos y técnicos",142115.762,174490.41325
 2024-07-01,54,"Servicios profesionales, científicos y técnicos",143818.604,179564.5315
 2024-10-01,54,"Servicios profesionales, científicos y técnicos",166917.27725,210340.652
-2025-01-01,54,"Servicios profesionales, científicos y técnicos",150717.7635,193109.1115
-2025-04-01,54,"Servicios profesionales, científicos y técnicos",154474.3585,198958.78375
-2025-07-01,54,"Servicios profesionales, científicos y técnicos",156322.40475,202185.40025
+2025-01-01,54,"Servicios profesionales, científicos y técnicos",150717.867,193109.228
+2025-04-01,54,"Servicios profesionales, científicos y técnicos",154474.70975,198959.18025
+2025-07-01,54,"Servicios profesionales, científicos y técnicos",156233.36425,202071.1925
+2025-10-01,54,"Servicios profesionales, científicos y técnicos",176502.029,229174.08
 1993-01-01,55,Corporativos,15255.48275,1460.99
 1993-04-01,55,Corporativos,15867.844,1602.754
 1993-07-01,55,Corporativos,10923.44725,1223.358
@@ -21220,7 +21381,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,55,Corporativos,40850.33725,52405.31475
 2025-01-01,55,Corporativos,39922.56575,51686.49225
 2025-04-01,55,Corporativos,42313.6275,55295.42175
-2025-07-01,55,Corporativos,41565.01825,54683.33425
+2025-07-01,55,Corporativos,41564.95825,54683.272
+2025-10-01,55,Corporativos,40911.8355,54414.84075
 1993-01-01,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",108939.30175,12158.43425
 1993-04-01,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",114301.34175,13171.9735
 1993-07-01,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",116212.4535,13894.9405
@@ -21351,7 +21513,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",59815.26425,73885.97125
 2025-01-01,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",57514.52175,71748.63625
 2025-04-01,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",64020.90025,80611.7325
-2025-07-01,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",63089.47175,79704.4665
+2025-07-01,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",63088.91975,79703.87225
+2025-10-01,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",64879.18825,82903.69675
 1993-01-01,561,Servicios de apoyo a los negocios,106528.79225,11942.7395
 1993-04-01,561,Servicios de apoyo a los negocios,112048.86175,12962.49575
 1993-07-01,561,Servicios de apoyo a los negocios,113225.15275,13601.33025
@@ -21482,7 +21645,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,561,Servicios de apoyo a los negocios,53828.324,66951.6275
 2025-01-01,561,Servicios de apoyo a los negocios,51407.81675,64657.79175
 2025-04-01,561,Servicios de apoyo a los negocios,57425.78625,72897.88725
-2025-07-01,561,Servicios de apoyo a los negocios,56882.986,72423.4375
+2025-07-01,561,Servicios de apoyo a los negocios,56882.46075,72422.87225
+2025-10-01,561,Servicios de apoyo a los negocios,58321.30275,75132.677
 1993-01-01,562,Manejo de residuos y servicios de remediación,2410.5095,215.69475
 1993-04-01,562,Manejo de residuos y servicios de remediación,2252.48,209.47775
 1993-07-01,562,Manejo de residuos y servicios de remediación,2987.30075,293.61025
@@ -21613,7 +21777,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,562,Manejo de residuos y servicios de remediación,5986.94025,6934.34375
 2025-01-01,562,Manejo de residuos y servicios de remediación,6106.705,7090.8445
 2025-04-01,562,Manejo de residuos y servicios de remediación,6595.114,7713.84525
-2025-07-01,562,Manejo de residuos y servicios de remediación,6206.48575,7281.029
+2025-07-01,562,Manejo de residuos y servicios de remediación,6206.459,7281.0
+2025-10-01,562,Manejo de residuos y servicios de remediación,6557.8855,7771.01975
 1993-01-01,61,Servicios educativos,158358.155,11716.44875
 1993-04-01,61,Servicios educativos,169567.008,13029.835
 1993-07-01,61,Servicios educativos,152104.38025,12512.08875
@@ -21744,7 +21909,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,61,Servicios educativos,224429.99325,309706.9105
 2025-01-01,61,Servicios educativos,218465.76125,304845.6935
 2025-04-01,61,Servicios educativos,223078.62075,311427.763
-2025-07-01,61,Servicios educativos,222989.031,317951.05175
+2025-07-01,61,Servicios educativos,222988.82675,317950.831
+2025-10-01,61,Servicios educativos,226798.076,333976.5565
 1993-01-01,62,Servicios de salud y de asistencia social,80364.28425,7154.59925
 1993-04-01,62,Servicios de salud y de asistencia social,83450.85075,7344.7275
 1993-07-01,62,Servicios de salud y de asistencia social,83974.2785,7493.81875
@@ -21875,7 +22041,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,62,Servicios de salud y de asistencia social,143822.742,208454.02475
 2025-01-01,62,Servicios de salud y de asistencia social,148021.44925,218244.231
 2025-04-01,62,Servicios de salud y de asistencia social,154355.483,231369.157
-2025-07-01,62,Servicios de salud y de asistencia social,156662.22075,235355.595
+2025-07-01,62,Servicios de salud y de asistencia social,156749.001,235489.89475
+2025-10-01,62,Servicios de salud y de asistencia social,150891.98425,228047.13125
 1993-01-01,621,Servicios médicos de consulta externa y servicios relacionados,37999.519,2968.89
 1993-04-01,621,Servicios médicos de consulta externa y servicios relacionados,39571.6945,3080.91725
 1993-07-01,621,Servicios médicos de consulta externa y servicios relacionados,40381.27825,3209.8745
@@ -22006,7 +22173,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,621,Servicios médicos de consulta externa y servicios relacionados,64701.68475,90021.22425
 2025-01-01,621,Servicios médicos de consulta externa y servicios relacionados,67064.31075,95291.336
 2025-04-01,621,Servicios médicos de consulta externa y servicios relacionados,68540.843,99036.8905
-2025-07-01,621,Servicios médicos de consulta externa y servicios relacionados,72283.2075,104610.379
+2025-07-01,621,Servicios médicos de consulta externa y servicios relacionados,72316.8925,104660.69875
+2025-10-01,621,Servicios médicos de consulta externa y servicios relacionados,68189.80975,99432.36825
 1993-01-01,622,Hospitales,37576.871,3770.19375
 1993-04-01,622,Hospitales,39106.3175,3846.14775
 1993-07-01,622,Hospitales,38811.30375,3837.86625
@@ -22137,7 +22305,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,622,Hospitales,74833.53425,112398.91475
 2025-01-01,622,Hospitales,76408.227,116494.31175
 2025-04-01,622,Hospitales,81646.83075,126367.19975
-2025-07-01,622,Hospitales,80385.167,124931.36075
+2025-07-01,622,Hospitales,80438.26425,125015.34275
+2025-10-01,622,Hospitales,78389.6095,122111.67375
 1993-01-01,623,Residencias de asistencia social y para el cuidado de la salud,302.44575,39.63325
 1993-04-01,623,Residencias de asistencia social y para el cuidado de la salud,283.01925,36.74425
 1993-07-01,623,Residencias de asistencia social y para el cuidado de la salud,326.642,43.319
@@ -22269,6 +22438,7 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2025-01-01,623,Residencias de asistencia social y para el cuidado de la salud,439.78825,593.132
 2025-04-01,623,Residencias de asistencia social y para el cuidado de la salud,399.62575,548.285
 2025-07-01,623,Residencias de asistencia social y para el cuidado de la salud,416.4835,573.55825
+2025-10-01,623,Residencias de asistencia social y para el cuidado de la salud,471.13275,651.73075
 1993-01-01,624,Otros servicios de asistencia social,4485.4485,375.88225
 1993-04-01,624,Otros servicios de asistencia social,4489.8195,380.91825
 1993-07-01,624,Otros servicios de asistencia social,4455.0545,402.759
@@ -22399,7 +22569,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,624,Otros servicios de asistencia social,3842.60625,5445.54925
 2025-01-01,624,Otros servicios de asistencia social,4109.12325,5865.45125
 2025-04-01,624,Otros servicios de asistencia social,3768.1835,5416.78175
-2025-07-01,624,Otros servicios de asistencia social,3577.36275,5240.297
+2025-07-01,624,Otros servicios de asistencia social,3577.36075,5240.295
+2025-10-01,624,Otros servicios de asistencia social,3841.43225,5851.3585
 1993-01-01,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",26658.041,2982.34425
 1993-04-01,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",24703.6725,3024.77075
 1993-07-01,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",22309.276,2828.69075
@@ -22530,7 +22701,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",38393.33325,49737.49475
 2025-01-01,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",27001.67875,36426.819
 2025-04-01,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",32160.34775,42627.668
-2025-07-01,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",37188.3525,49964.216
+2025-07-01,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",37188.33075,49964.1925
+2025-10-01,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",46963.6115,64977.93625
 1993-01-01,711,"Servicios artísticos, culturales y deportivos, y otros servicios relacionados",8200.46775,1027.092
 1993-04-01,711,"Servicios artísticos, culturales y deportivos, y otros servicios relacionados",6311.876,901.90725
 1993-07-01,711,"Servicios artísticos, culturales y deportivos, y otros servicios relacionados",4930.22125,743.21625
@@ -22661,7 +22833,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,711,"Servicios artísticos, culturales y deportivos, y otros servicios relacionados",20091.549,27763.99425
 2025-01-01,711,"Servicios artísticos, culturales y deportivos, y otros servicios relacionados",13370.1245,18682.489
 2025-04-01,711,"Servicios artísticos, culturales y deportivos, y otros servicios relacionados",14042.5855,20338.8745
-2025-07-01,711,"Servicios artísticos, culturales y deportivos, y otros servicios relacionados",18595.02025,27282.87375
+2025-07-01,711,"Servicios artísticos, culturales y deportivos, y otros servicios relacionados",18595.01775,27282.871
+2025-10-01,711,"Servicios artísticos, culturales y deportivos, y otros servicios relacionados",27308.76375,41058.71725
 1993-01-01,712,"Museos, sitios históricos, zoológicos y similares",2356.22725,184.00375
 1993-04-01,712,"Museos, sitios históricos, zoológicos y similares",2508.95275,221.78325
 1993-07-01,712,"Museos, sitios históricos, zoológicos y similares",2051.27375,191.90875
@@ -22792,7 +22965,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,712,"Museos, sitios históricos, zoológicos y similares",1829.806,2394.9305
 2025-01-01,712,"Museos, sitios históricos, zoológicos y similares",2172.9885,2890.06025
 2025-04-01,712,"Museos, sitios históricos, zoológicos y similares",2157.63825,2884.7865
-2025-07-01,712,"Museos, sitios históricos, zoológicos y similares",2126.04925,2824.268
+2025-07-01,712,"Museos, sitios históricos, zoológicos y similares",2126.047,2824.2655
+2025-10-01,712,"Museos, sitios históricos, zoológicos y similares",2343.3705,3118.85
 1993-01-01,713,Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos,16101.346,1771.2485
 1993-04-01,713,Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos,15882.84375,1901.08025
 1993-07-01,713,Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos,15327.781,1893.56575
@@ -22923,7 +23097,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,713,Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos,16471.97825,19578.57
 2025-01-01,713,Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos,11458.56575,14854.26975
 2025-04-01,713,Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos,15960.124,19404.007
-2025-07-01,713,Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos,16467.283,19857.07425
+2025-07-01,713,Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos,16467.266,19857.056
+2025-10-01,713,Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos,17311.47725,20800.369
 1993-01-01,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,117047.08075,13430.372
 1993-04-01,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,133885.67175,15703.992
 1993-07-01,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,137077.34825,16282.00375
@@ -23054,7 +23229,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,143719.188,212659.7325
 2025-01-01,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,138588.7025,213701.758
 2025-04-01,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,138838.474,216136.41925
-2025-07-01,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,134343.47825,209632.43875
+2025-07-01,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,134346.4315,209637.54625
+2025-10-01,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,139945.9575,220323.4835
 1993-01-01,721,Servicios de alojamiento temporal,31824.75925,3525.485
 1993-04-01,721,Servicios de alojamiento temporal,27025.992,3007.89375
 1993-07-01,721,Servicios de alojamiento temporal,27583.36125,3105.38625
@@ -23185,7 +23361,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,721,Servicios de alojamiento temporal,70596.1685,101770.4545
 2025-01-01,721,Servicios de alojamiento temporal,68285.4915,103348.81725
 2025-04-01,721,Servicios de alojamiento temporal,66508.46275,100782.124
-2025-07-01,721,Servicios de alojamiento temporal,67201.006,100665.15525
+2025-07-01,721,Servicios de alojamiento temporal,67200.32075,100664.42025
+2025-10-01,721,Servicios de alojamiento temporal,71418.27725,107622.0665
 1993-01-01,722,Servicios de preparación de alimentos y bebidas,85222.3215,9904.887
 1993-04-01,722,Servicios de preparación de alimentos y bebidas,106859.67975,12696.09825
 1993-07-01,722,Servicios de preparación de alimentos y bebidas,109493.987,13176.6175
@@ -23316,7 +23493,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,722,Servicios de preparación de alimentos y bebidas,73123.0195,110889.278
 2025-01-01,722,Servicios de preparación de alimentos y bebidas,70303.211,110352.94075
 2025-04-01,722,Servicios de preparación de alimentos y bebidas,72330.01125,115354.29525
-2025-07-01,722,Servicios de preparación de alimentos y bebidas,67142.47225,108967.2835
+2025-07-01,722,Servicios de preparación de alimentos y bebidas,67146.11075,108973.126
+2025-10-01,722,Servicios de preparación de alimentos y bebidas,68527.68025,112701.417
 1993-01-01,81,Otros servicios excepto actividades gubernamentales,75754.50275,11811.392
 1993-04-01,81,Otros servicios excepto actividades gubernamentales,74152.0985,12095.8915
 1993-07-01,81,Otros servicios excepto actividades gubernamentales,70009.20325,11620.10725
@@ -23445,9 +23623,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,81,Otros servicios excepto actividades gubernamentales,105223.2685,166372.68275
 2024-07-01,81,Otros servicios excepto actividades gubernamentales,113865.76925,180372.0185
 2024-10-01,81,Otros servicios excepto actividades gubernamentales,112060.67075,179926.44675
-2025-01-01,81,Otros servicios excepto actividades gubernamentales,108366.47175,176814.021
-2025-04-01,81,Otros servicios excepto actividades gubernamentales,105329.69125,175027.014
-2025-07-01,81,Otros servicios excepto actividades gubernamentales,111220.26525,184617.3755
+2025-01-01,81,Otros servicios excepto actividades gubernamentales,108365.273,176812.3455
+2025-04-01,81,Otros servicios excepto actividades gubernamentales,105329.451,175026.67375
+2025-07-01,81,Otros servicios excepto actividades gubernamentales,111543.37875,185095.8695
+2025-10-01,81,Otros servicios excepto actividades gubernamentales,112423.9,188055.32725
 1993-01-01,811,Servicios de reparación y mantenimiento,20732.14775,2854.9925
 1993-04-01,811,Servicios de reparación y mantenimiento,18397.7155,2626.16575
 1993-07-01,811,Servicios de reparación y mantenimiento,15972.90075,2381.4035
@@ -23576,9 +23755,10 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,811,Servicios de reparación y mantenimiento,27651.5275,36271.52725
 2024-07-01,811,Servicios de reparación y mantenimiento,32010.21675,42005.8925
 2024-10-01,811,Servicios de reparación y mantenimiento,33526.5705,44231.9465
-2025-01-01,811,Servicios de reparación y mantenimiento,27009.13275,36877.897
-2025-04-01,811,Servicios de reparación y mantenimiento,27707.61325,38308.40775
-2025-07-01,811,Servicios de reparación y mantenimiento,29297.9435,40695.05475
+2025-01-01,811,Servicios de reparación y mantenimiento,27007.934,36876.2215
+2025-04-01,811,Servicios de reparación y mantenimiento,27707.373,38308.0675
+2025-07-01,811,Servicios de reparación y mantenimiento,29621.0875,41173.58175
+2025-10-01,811,Servicios de reparación y mantenimiento,33203.101,46254.81975
 1993-01-01,812,Servicios personales,28204.0615,4748.16125
 1993-04-01,812,Servicios personales,29136.97025,5157.76075
 1993-07-01,812,Servicios personales,27256.084,4783.53375
@@ -23709,7 +23889,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,812,Servicios personales,41138.0675,81518.0745
 2025-01-01,812,Servicios personales,42076.1115,83057.22075
 2025-04-01,812,Servicios personales,40006.09225,81188.501
-2025-07-01,812,Servicios personales,44249.24625,87966.81475
+2025-07-01,812,Servicios personales,44249.2315,87966.79875
+2025-10-01,812,Servicios personales,41346.627,85019.465
 1993-01-01,813,Asociaciones y organizaciones,12318.76525,1824.98825
 1993-04-01,813,Asociaciones y organizaciones,12239.39275,1832.57075
 1993-07-01,813,Asociaciones y organizaciones,12694.8345,1975.24525
@@ -23840,7 +24021,8 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-10-01,813,Asociaciones y organizaciones,11289.3685,14535.8535
 2025-01-01,813,Asociaciones y organizaciones,13089.05025,16975.82975
 2025-04-01,813,Asociaciones y organizaciones,10712.4675,14023.21
-2025-07-01,813,Asociaciones y organizaciones,10974.90375,14450.694
+2025-07-01,813,Asociaciones y organizaciones,10974.888,14450.677
+2025-10-01,813,Asociaciones y organizaciones,11157.149,14882.10125
 1993-01-01,814,Hogares con empleados domésticos,14499.52825,2383.25
 1993-04-01,814,Hogares con empleados domésticos,14378.02,2479.39425
 1993-07-01,814,Hogares con empleados domésticos,14085.384,2479.92475
@@ -23972,6 +24154,7 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2025-01-01,814,Hogares con empleados domésticos,26192.17725,39903.0735
 2025-04-01,814,Hogares con empleados domésticos,26903.51825,41506.89525
 2025-07-01,814,Hogares con empleados domésticos,26698.17175,41504.812
+2025-10-01,814,Hogares con empleados domésticos,26717.023,41898.94125
 1993-01-01,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",172327.236,11714.48525
 1993-04-01,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",164092.574,11401.8895
 1993-07-01,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",171646.708,12332.3375
@@ -24100,6 +24283,7 @@ PERIODO,CLAVE_INDUSTRIA,INDUSTRIA,VALOR_CONSTANTE,VALOR_CORRIENTE
 2024-04-01,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",209650.8655,287682.68375
 2024-07-01,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",209382.8435,291489.4295
 2024-10-01,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",218156.33,307447.74125
-2025-01-01,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",206303.6635,292194.695
-2025-04-01,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",209760.72125,299940.219
-2025-07-01,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",208453.083,300954.63125
+2025-01-01,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",206303.667,292194.6995
+2025-04-01,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",209760.659,299940.1345
+2025-07-01,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",208458.62925,300973.7045
+2025-10-01,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",221642.98875,324395.5225

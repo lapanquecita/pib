@@ -168,7 +168,7 @@ def cargar_dataset(ruta):
     # Así que mejor le damos los nombres finales desde ahora.
     periodos = list()
 
-    for año in range(1993, 2026):
+    for año in range(1993, 2027):
         periodos.extend(
             [
                 f"{año}-01-01",

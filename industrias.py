@@ -12,15 +12,15 @@ import plotly.graph_objects as go
 # La fecha de actualización más reciente.
 FECHA_FUENTE = "mayo 2026"
 
-# Los colores usados para todas las gráficas.
-PLOT_COLOR = "#0F0F0F"
-PAPER_COLOR = "#232D3F"
+# Definimos los colores que usaremos para las visualizaciones.
+PLOT_COLOR = "#1C1F1A"
+PAPER_COLOR = "#262B23"
 
 
 def evolucion_anual(clave_industria):
     """
     Genera una gráfica tipo lollipop con la
-    evolución de su valor agregado bruto por año.
+    evolución del valor de una industria especificada.
 
     Parameters
     ----------
@@ -523,4 +523,4 @@ if __name__ == "__main__":
 
     participacion("211")
 
-    comparar("211", "3241","3251")
+    comparar("211", "3241", "3251")

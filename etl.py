@@ -213,7 +213,7 @@ def crear_estados():
     dfs = list()
 
     # Definimos la ruta base para los archivos de PIB por entidad.
-    ruta_base = "./source_estatal/conjunto_de_datos_pibe_entidad_{}2024_p.csv"
+    ruta_base = "./source_estatal/conjunto_de_datos_pibe_entidad_{}2024_r.csv"
 
     # Iteramos sobre cada entidad.
     for k, v in ENTIDADES.items():
